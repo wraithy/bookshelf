@@ -14,14 +14,24 @@
       ]
     },
     "book": {
+      "url": "https://www.goodreads.com/book/show/140974.The_Path_of_Daggers",
       "description": "The Seanchan invasion force is in possession of Ebou Dar. Nynaeve, Elayne, and Aviendha head for Caemlyn and Elayne's rightful throne, bu...",
       "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1390508613i/140974.jpg",
       "authorUrl": "https://www.goodreads.com/author/show/6252.Robert_Jordan",
       "isbn": 9780812550290,
       "pageCount": 685,
       "title": "The Path of Daggers",
-      "seriesUrl": "https://www.goodreads.com/series/41526-the-wheel-of-time",
+      "series": {
+        "url": "https://www.goodreads.com/series/41526-the-wheel-of-time",
+        "works": {
+          "primary": 14,
+          "total": 46
+        },
+        "name": "The Wheel of Time"
+      },
+      "positionInSeries": 8,
       "author": {
+        "url": "https://www.goodreads.com/author/show/6252.Robert_Jordan",
         "name": "Robert Jordan",
         "birthDate": "1948-10-17",
         "deathDate": "2007-09-16",
@@ -50,14 +60,24 @@
       ]
     },
     "book": {
+      "url": "https://www.goodreads.com/book/show/22016392-assassin-s-quest",
       "description": "Fitz is about to discover the truth about the Fool's prophecy. Having been resurected from his fatal tortures in Regal's dungeons, Fitz h...",
       "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1398595065i/22016392.jpg",
       "authorUrl": "https://www.goodreads.com/author/show/25307.Robin_Hobb",
       "isbn": 9780007562275,
       "pageCount": 838,
       "title": "Assassin's Quest",
-      "seriesUrl": "https://www.goodreads.com/series/41452-the-farseer-trilogy",
+      "series": {
+        "url": "https://www.goodreads.com/series/41452-the-farseer-trilogy",
+        "works": {
+          "primary": 3,
+          "total": 7
+        },
+        "name": "The Farseer Trilogy"
+      },
+      "positionInSeries": 3,
       "author": {
+        "url": "https://www.goodreads.com/author/show/25307.Robin_Hobb",
         "name": "Robin Hobb",
         "birthDate": null,
         "deathDate": null,
@@ -90,14 +110,24 @@
       ]
     },
     "book": {
+      "url": "https://www.goodreads.com/book/show/22016387-royal-assassin",
       "description": "Fitz has survived his first hazardous mission as king’s assassin, but is left little more than a cripple. Battered and bitter, he vows to...",
       "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1398594863i/22016387.jpg",
       "authorUrl": "https://www.goodreads.com/author/show/25307.Robin_Hobb",
       "isbn": 9780007562268,
       "pageCount": 648,
       "title": "Royal Assassin",
-      "seriesUrl": "https://www.goodreads.com/series/41452-the-farseer-trilogy",
+      "series": {
+        "url": "https://www.goodreads.com/series/41452-the-farseer-trilogy",
+        "works": {
+          "primary": 3,
+          "total": 7
+        },
+        "name": "The Farseer Trilogy"
+      },
+      "positionInSeries": 2,
       "author": {
+        "url": "https://www.goodreads.com/author/show/25307.Robin_Hobb",
         "name": "Robin Hobb",
         "birthDate": null,
         "deathDate": null,
@@ -130,14 +160,24 @@
       ]
     },
     "book": {
+      "url": "https://www.goodreads.com/book/show/21956219-assassin-s-apprentice",
       "description": "In a faraway land where members of the royal family are named for the virtues they embody, one young boy will become a walking enigma.  B...",
       "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1398083044i/21956219.jpg",
       "authorUrl": "https://www.goodreads.com/author/show/25307.Robin_Hobb",
       "isbn": 9780007562251,
       "pageCount": 392,
       "title": "Assassin's Apprentice",
-      "seriesUrl": "https://www.goodreads.com/series/41452-the-farseer-trilogy",
+      "series": {
+        "url": "https://www.goodreads.com/series/41452-the-farseer-trilogy",
+        "works": {
+          "primary": 3,
+          "total": 7
+        },
+        "name": "The Farseer Trilogy"
+      },
+      "positionInSeries": 1,
       "author": {
+        "url": "https://www.goodreads.com/author/show/25307.Robin_Hobb",
         "name": "Robin Hobb",
         "birthDate": null,
         "deathDate": null,
@@ -178,14 +218,24 @@
       ]
     },
     "book": {
+      "url": "https://www.goodreads.com/book/show/13890.A_Crown_of_Swords",
       "description": "The Wheel of Time turns, and Ages come and go. What was, what will be, and what is, may yet fall under the Shadow.  Let the Dragon ride a...",
       "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1358542379i/13890.jpg",
       "authorUrl": "https://www.goodreads.com/author/show/6252.Robert_Jordan",
       "isbn": 9780812550283,
       "pageCount": 880,
       "title": "A Crown of Swords",
-      "seriesUrl": "https://www.goodreads.com/series/41526-the-wheel-of-time",
+      "series": {
+        "url": "https://www.goodreads.com/series/41526-the-wheel-of-time",
+        "works": {
+          "primary": 14,
+          "total": 46
+        },
+        "name": "The Wheel of Time"
+      },
+      "positionInSeries": 7,
       "author": {
+        "url": "https://www.goodreads.com/author/show/6252.Robert_Jordan",
         "name": "Robert Jordan",
         "birthDate": "1948-10-17",
         "deathDate": "2007-09-16",
@@ -205,14 +255,24 @@
       "progress": []
     },
     "book": {
+      "url": "https://www.goodreads.com/book/show/20518872-the-three-body-problem",
       "description": "The Three-Body Problem is the first chance for English-speaking readers to experience the Hugo Award-winning phenomenon from China's most...",
       "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1415428227i/20518872.jpg",
       "authorUrl": "https://www.goodreads.com/author/show/5780686.Liu_Cixin",
       "isbn": 9780765377067,
       "pageCount": 399,
       "title": "三体",
-      "seriesUrl": "https://www.goodreads.com/series/189931-remembrance-of-earth-s-past",
+      "series": {
+        "url": "https://www.goodreads.com/series/189931-remembrance-of-earth-s-past",
+        "works": {
+          "primary": 3,
+          "total": 6
+        },
+        "name": "Remembrance of Earth's Past"
+      },
+      "positionInSeries": 1,
       "author": {
+        "url": "https://www.goodreads.com/author/show/5780686.Liu_Cixin",
         "name": "Liu Cixin",
         "birthDate": null,
         "deathDate": null,
@@ -251,14 +311,24 @@
       ]
     },
     "book": {
+      "url": "https://www.goodreads.com/book/show/35231.Lord_of_Chaos",
       "description": "In this sequel to the phenomenal New York Times bestseller The Fires of Heaven, we plunge again into Robert Jordan's extraordinarily rich...",
       "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1480096417i/35231.jpg",
       "authorUrl": "https://www.goodreads.com/author/show/6252.Robert_Jordan",
       "isbn": 9780812513752,
       "pageCount": 1011,
       "title": "Lord of Chaos",
-      "seriesUrl": "https://www.goodreads.com/series/41526-the-wheel-of-time",
+      "series": {
+        "url": "https://www.goodreads.com/series/41526-the-wheel-of-time",
+        "works": {
+          "primary": 14,
+          "total": 46
+        },
+        "name": "The Wheel of Time"
+      },
+      "positionInSeries": 6,
       "author": {
+        "url": "https://www.goodreads.com/author/show/6252.Robert_Jordan",
         "name": "Robert Jordan",
         "birthDate": "1948-10-17",
         "deathDate": "2007-09-16",
@@ -291,6 +361,7 @@
       ]
     },
     "book": {
+      "url": "https://www.goodreads.com/book/show/3744438-1984",
       "description": "'It was a bright cold day in April, and the clocks were striking thirteen.'  Winston Smith works for the Ministry of truth in London, chi...",
       "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327144697i/3744438.jpg",
       "authorUrl": "https://www.goodreads.com/author/show/3706.George_Orwell",
@@ -298,6 +369,7 @@
       "pageCount": 311,
       "title": "Nineteen Eighty-Four",
       "author": {
+        "url": "https://www.goodreads.com/author/show/3706.George_Orwell",
         "name": "George Orwell",
         "birthDate": "1903-06-25",
         "deathDate": "1950-01-21",
@@ -307,7 +379,8 @@
           "Journalism"
         ],
         "websiteUrl": "http://www.george-orwell.org/"
-      }
+      },
+      "series": null
     }
   },
   {
@@ -320,6 +393,7 @@
       "progress": []
     },
     "book": {
+      "url": "https://www.goodreads.com/book/show/21319000-the-one-thing",
       "description": "The One Thing explains the success habit to overcome the six lies that block our success, beat the seven thieves that steal time, and lev...",
       "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1421647758i/21319000.jpg",
       "authorUrl": "https://www.goodreads.com/author/show/78754.Gary_Keller",
@@ -327,6 +401,7 @@
       "pageCount": 240,
       "title": "The One Thing: The Surprisingly Simple Truth Behind Extraordinary Results ",
       "author": {
+        "url": "https://www.goodreads.com/author/show/78754.Gary_Keller",
         "name": "Gary Keller",
         "birthDate": null,
         "deathDate": null,
@@ -334,7 +409,8 @@
           "Business"
         ],
         "websiteUrl": "http://www.kellerink.com"
-      }
+      },
+      "series": null
     }
   },
   {
@@ -356,6 +432,7 @@
       ]
     },
     "book": {
+      "url": "https://www.goodreads.com/book/show/113934.The_Goal",
       "description": "Written in a fast-paced thriller style, The Goal is the gripping novel which is transforming management thinking throughout the Western w...",
       "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1475538019i/113934.jpg",
       "authorUrl": "https://www.goodreads.com/author/show/66037.Eliyahu_M_Goldratt",
@@ -363,10 +440,12 @@
       "pageCount": 384,
       "title": "The Goal: A Process of Ongoing Improvement",
       "author": {
+        "url": "https://www.goodreads.com/author/show/66037.Eliyahu_M_Goldratt",
         "name": "Eliyahu M. Goldratt",
         "birthDate": null,
         "deathDate": null
-      }
+      },
+      "series": null
     }
   },
   {
@@ -392,14 +471,24 @@
       ]
     },
     "book": {
+      "url": "https://www.goodreads.com/book/show/13895.The_Fires_of_Heaven",
       "description": "The fifth book in Robert Jordan's internationally bestselling epic fantasy series, THE WHEEL OF TIME, now reissued with a stunning new co...",
       "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327866286i/13895.jpg",
       "authorUrl": "https://www.goodreads.com/author/show/6252.Robert_Jordan",
       "isbn": 9781857232097,
       "pageCount": 912,
       "title": "The Fires of Heaven",
-      "seriesUrl": "https://www.goodreads.com/series/41526-the-wheel-of-time",
+      "series": {
+        "url": "https://www.goodreads.com/series/41526-the-wheel-of-time",
+        "works": {
+          "primary": 14,
+          "total": 46
+        },
+        "name": "The Wheel of Time"
+      },
+      "positionInSeries": 5,
       "author": {
+        "url": "https://www.goodreads.com/author/show/6252.Robert_Jordan",
         "name": "Robert Jordan",
         "birthDate": "1948-10-17",
         "deathDate": "2007-09-16",
@@ -424,14 +513,24 @@
       ]
     },
     "book": {
+      "url": "https://www.goodreads.com/book/show/7664041-inheritance",
       "description": "It began with Eragon... It ends with Inheritance.  Not so very long ago, Eragon — Shadeslayer, Dragon Rider — was nothing more than a poo...",
       "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1390886502i/7664041.jpg",
       "authorUrl": "https://www.goodreads.com/author/show/8349.Christopher_Paolini",
       "isbn": 9780375856112,
       "pageCount": 849,
       "title": "Inheritance",
-      "seriesUrl": "https://www.goodreads.com/series/44866-the-inheritance-cycle",
+      "series": {
+        "url": "https://www.goodreads.com/series/44866-the-inheritance-cycle",
+        "works": {
+          "primary": 4,
+          "total": 33
+        },
+        "name": "The Inheritance Cycle"
+      },
+      "positionInSeries": 4,
       "author": {
+        "url": "https://www.goodreads.com/author/show/8349.Christopher_Paolini",
         "name": "Christopher Paolini",
         "birthDate": "1983-11-17",
         "deathDate": null,
@@ -460,14 +559,24 @@
       ]
     },
     "book": {
+      "url": "https://www.goodreads.com/book/show/2248573.Brisingr",
       "description": "Oaths sworn... loyalties tested... forces collide.  It's been only months since Eragon first uttered \"brisingr\", an ancient language term...",
       "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1391443970i/2248573.jpg",
       "authorUrl": "https://www.goodreads.com/author/show/8349.Christopher_Paolini",
       "isbn": 9780375826726,
       "pageCount": 748,
       "title": "Brisingr",
-      "seriesUrl": "https://www.goodreads.com/series/44866-the-inheritance-cycle",
+      "series": {
+        "url": "https://www.goodreads.com/series/44866-the-inheritance-cycle",
+        "works": {
+          "primary": 4,
+          "total": 33
+        },
+        "name": "The Inheritance Cycle"
+      },
+      "positionInSeries": 3,
       "author": {
+        "url": "https://www.goodreads.com/author/show/8349.Christopher_Paolini",
         "name": "Christopher Paolini",
         "birthDate": "1983-11-17",
         "deathDate": null,
@@ -496,14 +605,24 @@
       ]
     },
     "book": {
+      "url": "https://www.goodreads.com/book/show/113436.Eragon",
       "description": "An alternate cover edition for ISBN 9780375826696 can be found here.  One boy... One dragon... A world of adventure.   When Eragon finds ...",
       "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1366212852i/113436.jpg",
       "authorUrl": "https://www.goodreads.com/author/show/8349.Christopher_Paolini",
       "isbn": 9780375826696,
       "pageCount": 503,
       "title": "Eragon",
-      "seriesUrl": "https://www.goodreads.com/series/44866-the-inheritance-cycle",
+      "series": {
+        "url": "https://www.goodreads.com/series/44866-the-inheritance-cycle",
+        "works": {
+          "primary": 4,
+          "total": 33
+        },
+        "name": "The Inheritance Cycle"
+      },
+      "positionInSeries": 1,
       "author": {
+        "url": "https://www.goodreads.com/author/show/8349.Christopher_Paolini",
         "name": "Christopher Paolini",
         "birthDate": "1983-11-17",
         "deathDate": null,
@@ -536,14 +655,24 @@
       ]
     },
     "book": {
+      "url": "https://www.goodreads.com/book/show/9539.The_Shadow_Rising",
       "description": "The seals of Shayol Ghul are weak now, and the Dark One reaches out. The Shadow is rising to cover humankind.  In Tar Valon, Min sees por...",
       "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1470841890i/9539.jpg",
       "authorUrl": "https://www.goodreads.com/author/show/6252.Robert_Jordan",
       "isbn": 9780812513738,
       "pageCount": 1007,
       "title": "The Shadow Rising ",
-      "seriesUrl": "https://www.goodreads.com/series/41526-the-wheel-of-time",
+      "series": {
+        "url": "https://www.goodreads.com/series/41526-the-wheel-of-time",
+        "works": {
+          "primary": 14,
+          "total": 46
+        },
+        "name": "The Wheel of Time"
+      },
+      "positionInSeries": 4,
       "author": {
+        "url": "https://www.goodreads.com/author/show/6252.Robert_Jordan",
         "name": "Robert Jordan",
         "birthDate": "1948-10-17",
         "deathDate": "2007-09-16",
@@ -572,14 +701,24 @@
       ]
     },
     "book": {
+      "url": "https://www.goodreads.com/book/show/34897.The_Dragon_Reborn",
       "description": "The Dragon Reborn—the leader long prophesied who will save the world, but in the saving destroy it; the savior who will run mad and kill ...",
       "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1480096580i/34897.jpg",
       "authorUrl": "https://www.goodreads.com/author/show/6252.Robert_Jordan",
       "isbn": 9780765305114,
       "pageCount": 624,
       "title": "The Dragon Reborn ",
-      "seriesUrl": "https://www.goodreads.com/series/41526-the-wheel-of-time",
+      "series": {
+        "url": "https://www.goodreads.com/series/41526-the-wheel-of-time",
+        "works": {
+          "primary": 14,
+          "total": 46
+        },
+        "name": "The Wheel of Time"
+      },
+      "positionInSeries": 3,
       "author": {
+        "url": "https://www.goodreads.com/author/show/6252.Robert_Jordan",
         "name": "Robert Jordan",
         "birthDate": "1948-10-17",
         "deathDate": "2007-09-16",
@@ -608,14 +747,24 @@
       ]
     },
     "book": {
+      "url": "https://www.goodreads.com/book/show/233649.The_Great_Hunt",
       "description": "The Wheel of Time turns and Ages come and pass. What was, what will be, and what is, may yet fall under the Shadow.  Let the Dragon ride ...",
       "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1437870280i/233649.jpg",
       "authorUrl": "https://www.goodreads.com/author/show/6252.Robert_Jordan",
       "isbn": 9780812517729,
       "pageCount": 705,
       "title": "The Great Hunt",
-      "seriesUrl": "https://www.goodreads.com/series/41526-the-wheel-of-time",
+      "series": {
+        "url": "https://www.goodreads.com/series/41526-the-wheel-of-time",
+        "works": {
+          "primary": 14,
+          "total": 46
+        },
+        "name": "The Wheel of Time"
+      },
+      "positionInSeries": 2,
       "author": {
+        "url": "https://www.goodreads.com/author/show/6252.Robert_Jordan",
         "name": "Robert Jordan",
         "birthDate": "1948-10-17",
         "deathDate": "2007-09-16",
@@ -640,14 +789,24 @@
       ]
     },
     "book": {
+      "url": "https://www.goodreads.com/book/show/18630.The_Player_of_Games",
       "description": "The Culture - a humanoid/machine symbiotic society - has thrown up many great Game Players. One of the best is Jernau Morat Gurgeh, Playe...",
       "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1386922873i/18630.jpg",
       "authorUrl": "https://www.goodreads.com/author/show/5807106.Iain_M_Banks",
       "isbn": 9780061053566,
       "pageCount": 293,
       "title": "The Player of Games",
-      "seriesUrl": "https://www.goodreads.com/series/49118-culture",
+      "series": {
+        "url": "https://www.goodreads.com/series/49118-culture",
+        "works": {
+          "primary": 10,
+          "total": 18
+        },
+        "name": "Culture"
+      },
+      "positionInSeries": 2,
       "author": {
+        "url": "https://www.goodreads.com/author/show/5807106.Iain_M_Banks",
         "name": "Iain M. Banks",
         "birthDate": "1954-02-16",
         "deathDate": "2013-06-09",
@@ -668,14 +827,24 @@
       "progress": []
     },
     "book": {
+      "url": "https://www.goodreads.com/book/show/10790290-theft-of-swords",
       "description": "THEY KILLED THE KING. THEY PINNED IT ON TWO MEN. THEY CHOSE POORLY.  There's no ancient evil to defeat or orphan destined for greatness, ...",
       "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1307959785i/10790290.jpg",
       "authorUrl": "https://www.goodreads.com/author/show/2063919.Michael_J_Sullivan",
       "isbn": 9780316187749,
       "pageCount": 649,
       "title": "Theft of Swords",
-      "seriesUrl": "https://www.goodreads.com/series/96465-the-riyria-revelations",
+      "series": {
+        "url": "https://www.goodreads.com/series/96465-the-riyria-revelations",
+        "works": {
+          "primary": 6,
+          "total": 12
+        },
+        "name": "The Riyria Revelations"
+      },
+      "positionInSeries": 1,
       "author": {
+        "url": "https://www.goodreads.com/author/show/2063919.Michael_J_Sullivan",
         "name": "Michael J. Sullivan",
         "birthDate": "1961-09-17",
         "deathDate": null,
@@ -699,14 +868,24 @@
       "progress": []
     },
     "book": {
+      "url": "https://www.goodreads.com/book/show/9579634-prince-of-thorns",
       "description": "Before the thorns taught me their sharp lessons and bled weakness from me I had but one brother, and I loved him well. But those days are...",
       "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327917754i/9579634.jpg",
       "authorUrl": "https://www.goodreads.com/author/show/4721536.Mark_Lawrence",
       "isbn": 9780007423293,
       "pageCount": 373,
       "title": "Prince of Thorns",
-      "seriesUrl": "https://www.goodreads.com/series/64473-the-broken-empire",
+      "series": {
+        "url": "https://www.goodreads.com/series/64473-the-broken-empire",
+        "works": {
+          "primary": 3,
+          "total": 10
+        },
+        "name": "The Broken Empire"
+      },
+      "positionInSeries": 1,
       "author": {
+        "url": "https://www.goodreads.com/author/show/4721536.Mark_Lawrence",
         "name": "Mark  Lawrence",
         "birthDate": null,
         "deathDate": null,
@@ -730,14 +909,24 @@
       "progress": []
     },
     "book": {
+      "url": "https://www.goodreads.com/book/show/47212.Storm_Front",
       "description": "HARRY DRESDEN — WIZARD  Lost Items Found. Paranormal Investigations. Consulting. Advice. Reasonable Rates. No Love Potions, Endless Purse...",
       "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1572991273i/47212.jpg",
       "authorUrl": "https://www.goodreads.com/author/show/10746.Jim_Butcher",
       "isbn": 9780451457813,
       "pageCount": 355,
       "title": "Storm Front",
-      "seriesUrl": "https://www.goodreads.com/series/40346-the-dresden-files",
+      "series": {
+        "url": "https://www.goodreads.com/series/40346-the-dresden-files",
+        "works": {
+          "primary": 18,
+          "total": 58
+        },
+        "name": "The Dresden Files"
+      },
+      "positionInSeries": 1,
       "author": {
+        "url": "https://www.goodreads.com/author/show/10746.Jim_Butcher",
         "name": "Jim Butcher",
         "birthDate": null,
         "deathDate": null,
@@ -759,14 +948,24 @@
       "progress": []
     },
     "book": {
+      "url": "https://www.goodreads.com/book/show/34497.The_Color_of_Magic",
       "description": "Terry Pratchett's profoundly irreverent, bestselling novels have garnered him a revered position in the halls of parody next to the likes...",
       "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1407111017i/34497.jpg",
       "authorUrl": "https://www.goodreads.com/author/show/1654.Terry_Pratchett",
       "isbn": 9780060855925,
       "pageCount": 228,
       "title": "The Colour of Magic",
-      "seriesUrl": "https://www.goodreads.com/series/40650-discworld",
+      "series": {
+        "url": "https://www.goodreads.com/series/40650-discworld",
+        "works": {
+          "primary": 41,
+          "total": 77
+        },
+        "name": "Discworld"
+      },
+      "positionInSeries": 1,
       "author": {
+        "url": "https://www.goodreads.com/author/show/1654.Terry_Pratchett",
         "name": "Terry Pratchett",
         "birthDate": "1948-04-28",
         "deathDate": "2015-03-12",
@@ -789,14 +988,24 @@
       "progress": []
     },
     "book": {
+      "url": "https://www.goodreads.com/book/show/865293.The_Lies_of_Locke_Lamora",
       "description": "They say that the Thorn of Camorr can beat anyone in a fight. They say he steals from the rich and gives to the poor. They say he's part ...",
       "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327866164i/865293.jpg",
       "authorUrl": "https://www.goodreads.com/author/show/73149.Scott_Lynch",
       "isbn": 9780575079755,
       "pageCount": 530,
       "title": "The Lies of Locke Lamora",
-      "seriesUrl": "https://www.goodreads.com/series/43531-gentleman-bastard",
+      "series": {
+        "url": "https://www.goodreads.com/series/43531-gentleman-bastard",
+        "works": {
+          "primary": 7,
+          "total": 13
+        },
+        "name": "Gentleman Bastard"
+      },
+      "positionInSeries": 1,
       "author": {
+        "url": "https://www.goodreads.com/author/show/73149.Scott_Lynch",
         "name": "Scott Lynch",
         "birthDate": null,
         "deathDate": null,
@@ -818,14 +1027,24 @@
       "progress": []
     },
     "book": {
+      "url": "https://www.goodreads.com/book/show/944073.The_Blade_Itself",
       "description": "Logen Ninefingers, infamous barbarian, has finally run out of luck. Caught in one feud too many, he’s on the verge of becoming a dead bar...",
       "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1284167912l/944073.jpg",
       "authorUrl": "https://www.goodreads.com/author/show/276660.Joe_Abercrombie",
       "isbn": 9780575079793,
       "pageCount": 515,
       "title": "The Blade Itself",
-      "seriesUrl": "https://www.goodreads.com/series/43644-the-first-law",
+      "series": {
+        "url": "https://www.goodreads.com/series/43644-the-first-law",
+        "works": {
+          "primary": 3,
+          "total": 12
+        },
+        "name": "The First Law"
+      },
+      "positionInSeries": 1,
       "author": {
+        "url": "https://www.goodreads.com/author/show/276660.Joe_Abercrombie",
         "name": "Joe Abercrombie",
         "birthDate": "1974-12-31",
         "deathDate": null,
@@ -860,14 +1079,24 @@
       ]
     },
     "book": {
+      "url": "https://www.goodreads.com/book/show/55399.Gardens_of_the_Moon",
       "description": "The Malazan Empire simmers with discontent, bled dry by interminable warfare, bitter infighting and bloody confrontations with the formid...",
       "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1548497031i/55399.jpg",
       "authorUrl": "https://www.goodreads.com/author/show/31232.Steven_Erikson",
       "isbn": 9780765348784,
       "pageCount": 657,
       "title": "Gardens of the Moon",
-      "seriesUrl": "https://www.goodreads.com/series/43493-malazan-book-of-the-fallen",
+      "series": {
+        "url": "https://www.goodreads.com/series/43493-malazan-book-of-the-fallen",
+        "works": {
+          "primary": 10,
+          "total": 20
+        },
+        "name": "Malazan Book of the Fallen"
+      },
+      "positionInSeries": 1,
       "author": {
+        "url": "https://www.goodreads.com/author/show/31232.Steven_Erikson",
         "name": "Steven Erikson",
         "birthDate": null,
         "deathDate": null,
@@ -889,14 +1118,24 @@
       "progress": []
     },
     "book": {
+      "url": "https://www.goodreads.com/book/show/7235533-the-way-of-kings",
       "description": "From #1 New York Times bestselling author Brandon Sanderson, The Way of Kings, book one of The Stormlight Archive begins an incredible ne...",
       "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388184640i/7235533.jpg",
       "authorUrl": "https://www.goodreads.com/author/show/38550.Brandon_Sanderson",
       "isbn": 9780765326355,
       "pageCount": 1007,
       "title": "The Way of Kings",
-      "seriesUrl": "https://www.goodreads.com/series/49075-the-stormlight-archive",
+      "series": {
+        "url": "https://www.goodreads.com/series/49075-the-stormlight-archive",
+        "works": {
+          "primary": 10,
+          "total": 27
+        },
+        "name": "The Stormlight Archive"
+      },
+      "positionInSeries": 1,
       "author": {
+        "url": "https://www.goodreads.com/author/show/38550.Brandon_Sanderson",
         "name": "Brandon Sanderson",
         "birthDate": null,
         "deathDate": null,
@@ -919,14 +1158,24 @@
       "progress": []
     },
     "book": {
+      "url": "https://www.goodreads.com/book/show/18775295-vengeful-spirit",
       "description": "On the planet of Molech, the Titan Legions go to war against the armies of Horus.Once the favoured son of the Emperor of Mankind, the nam...",
       "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1384160345i/18775295.jpg",
       "authorUrl": "https://www.goodreads.com/author/show/17729.Graham_McNeill",
       "isbn": 9781849705950,
       "pageCount": 544,
       "title": "Vengeful Spirit",
-      "seriesUrl": "https://www.goodreads.com/series/40983-the-horus-heresy",
+      "series": {
+        "url": "https://www.goodreads.com/series/40983-the-horus-heresy",
+        "works": {
+          "primary": 54,
+          "total": 329
+        },
+        "name": "The Horus Heresy"
+      },
+      "positionInSeries": 29,
       "author": {
+        "url": "https://www.goodreads.com/author/show/17729.Graham_McNeill",
         "name": "Graham McNeill",
         "birthDate": null,
         "deathDate": null,
@@ -952,14 +1201,24 @@
       ]
     },
     "book": {
+      "url": "https://www.goodreads.com/book/show/6487723-spud",
       "description": "As Spud Milton continues his diabolical stagger through adolescence, he learns one of life's most important lessons: when dealing with wo...",
       "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1397688560i/6487723.jpg",
       "authorUrl": "https://www.goodreads.com/author/show/374683.John_van_de_Ruit",
       "isbn": 9780143025955,
       "pageCount": 420,
       "title": "Spud: Learning to Fly",
-      "seriesUrl": "https://www.goodreads.com/series/90009-spud",
+      "series": {
+        "url": "https://www.goodreads.com/series/90009-spud",
+        "works": {
+          "primary": 4,
+          "total": 6
+        },
+        "name": "Spud"
+      },
+      "positionInSeries": 3,
       "author": {
+        "url": "https://www.goodreads.com/author/show/374683.John_van_de_Ruit",
         "name": "John van de Ruit",
         "birthDate": "1975-04-19",
         "deathDate": null,
@@ -985,14 +1244,24 @@
       ]
     },
     "book": {
+      "url": "https://www.goodreads.com/book/show/1413104.Spud",
       "description": "It's 1991, and John \"Spud\" Milton's journey to manhood is still creeping along at a snail's pace. Nearly fifteen, Spud's starting his sec...",
       "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1225867397i/1413104.jpg",
       "authorUrl": "https://www.goodreads.com/author/show/374683.John_van_de_Ruit",
       "isbn": 9780143025207,
       "pageCount": 352,
       "title": "Spud: The Madness Continues",
-      "seriesUrl": "https://www.goodreads.com/series/90009-spud",
+      "series": {
+        "url": "https://www.goodreads.com/series/90009-spud",
+        "works": {
+          "primary": 4,
+          "total": 6
+        },
+        "name": "Spud"
+      },
+      "positionInSeries": 2,
       "author": {
+        "url": "https://www.goodreads.com/author/show/374683.John_van_de_Ruit",
         "name": "John van de Ruit",
         "birthDate": "1975-04-19",
         "deathDate": null,
@@ -1018,14 +1287,24 @@
       ]
     },
     "book": {
+      "url": "https://www.goodreads.com/book/show/5302050-spud",
       "description": "Armed with only his wits and his diary, the author takes us from illegal nightswimming to the cricket field, from ghostbusting to teacher...",
       "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1235520607i/5302050.jpg",
       "authorUrl": "https://www.goodreads.com/author/show/374683.John_van_de_Ruit",
       "isbn": 9780143024842,
       "pageCount": 389,
       "title": "Spud",
-      "seriesUrl": "https://www.goodreads.com/series/90009-spud",
+      "series": {
+        "url": "https://www.goodreads.com/series/90009-spud",
+        "works": {
+          "primary": 4,
+          "total": 6
+        },
+        "name": "Spud"
+      },
+      "positionInSeries": 1,
       "author": {
+        "url": "https://www.goodreads.com/author/show/374683.John_van_de_Ruit",
         "name": "John van de Ruit",
         "birthDate": "1975-04-19",
         "deathDate": null,
@@ -1051,14 +1330,24 @@
       ]
     },
     "book": {
+      "url": "https://www.goodreads.com/book/show/14.The_Hitchhiker_s_Guide_to_the_Galaxy",
       "description": "Seconds before the Earth is demolished to make way for a galactic freeway, Arthur Dent is plucked off the planet by his friend Ford Prefe...",
       "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1414351529i/14.jpg",
       "authorUrl": "https://www.goodreads.com/author/show/4.Douglas_Adams",
       "isbn": 9781400052929,
       "pageCount": 215,
       "title": "The Hitchhiker's Guide to the Galaxy",
-      "seriesUrl": "https://www.goodreads.com/series/40957-the-hitchhiker-s-guide-to-the-galaxy",
+      "series": {
+        "url": "https://www.goodreads.com/series/40957-the-hitchhiker-s-guide-to-the-galaxy",
+        "works": {
+          "primary": 6,
+          "total": 18
+        },
+        "name": "The Hitchhiker's Guide to the Galaxy"
+      },
+      "positionInSeries": 1,
       "author": {
+        "url": "https://www.goodreads.com/author/show/4.Douglas_Adams",
         "name": "Douglas Adams",
         "birthDate": "1952-03-11",
         "deathDate": "2001-05-11",
@@ -1090,14 +1379,24 @@
       ]
     },
     "book": {
+      "url": "https://www.goodreads.com/book/show/18143803-scars",
       "description": "Jaghatai Khan and his White Scars Legion must choose - the Emperor or Horus?Fresh from their conquest of Chondax and the discovery of Hor...",
       "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1376783944i/18143803.jpg",
       "authorUrl": "https://www.goodreads.com/author/show/1001882.Chris_Wraight",
       "isbn": 9781849706049,
       "pageCount": 416,
       "title": "Scars",
-      "seriesUrl": "https://www.goodreads.com/series/40983-the-horus-heresy",
+      "series": {
+        "url": "https://www.goodreads.com/series/40983-the-horus-heresy",
+        "works": {
+          "primary": 54,
+          "total": 329
+        },
+        "name": "The Horus Heresy"
+      },
+      "positionInSeries": 28,
       "author": {
+        "url": "https://www.goodreads.com/author/show/1001882.Chris_Wraight",
         "name": "Chris Wraight",
         "birthDate": null,
         "deathDate": null,
@@ -1128,14 +1427,24 @@
       ]
     },
     "book": {
+      "url": "https://www.goodreads.com/book/show/18143885-the-unremembered-empire",
       "description": "Believing Terra has already fallen to the Warmaster, Primarch Roboute Guilliman founds the Imperium Secundus.The unthinkable has happened...",
       "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1376783938i/18143885.jpg",
       "authorUrl": "https://www.goodreads.com/author/show/33262.Dan_Abnett",
       "isbn": 9781849705738,
       "pageCount": 416,
       "title": "The Unremembered Empire",
-      "seriesUrl": "https://www.goodreads.com/series/40983-the-horus-heresy",
+      "series": {
+        "url": "https://www.goodreads.com/series/40983-the-horus-heresy",
+        "works": {
+          "primary": 54,
+          "total": 329
+        },
+        "name": "The Horus Heresy"
+      },
+      "positionInSeries": 27,
       "author": {
+        "url": "https://www.goodreads.com/author/show/33262.Dan_Abnett",
         "name": "Dan Abnett",
         "birthDate": null,
         "deathDate": null,
@@ -1167,14 +1476,24 @@
       ]
     },
     "book": {
+      "url": "https://www.goodreads.com/book/show/17571882-vulkan-lives",
       "description": "The latest title in Black Library's bestselling series, the Horus Heresy.In the wake of the Dropsite Massacre at Isstvan V, the survivors...",
       "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1374849272i/17571882.jpg",
       "authorUrl": "https://www.goodreads.com/author/show/398110.Nick_Kyme",
       "isbn": 9781849705134,
       "pageCount": 416,
       "title": "Vulkan Lives ",
-      "seriesUrl": "https://www.goodreads.com/series/40983-the-horus-heresy",
+      "series": {
+        "url": "https://www.goodreads.com/series/40983-the-horus-heresy",
+        "works": {
+          "primary": 54,
+          "total": 329
+        },
+        "name": "The Horus Heresy"
+      },
+      "positionInSeries": 26,
       "author": {
+        "url": "https://www.goodreads.com/author/show/398110.Nick_Kyme",
         "name": "Nick Kyme",
         "birthDate": null,
         "deathDate": null,
@@ -1206,14 +1525,24 @@
       ]
     },
     "book": {
+      "url": "https://www.goodreads.com/book/show/16130716-mark-of-calth",
       "description": "In this all-new collection of Horus Heresy stories, witness the untold tales of the Underworld War.The Heresy reached Calth without warni...",
       "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1353320936i/16130716.jpg",
       "authorUrl": "https://www.goodreads.com/author/show/7370933.L_J_Goulding",
       "isbn": 9781849704168,
       "pageCount": 416,
       "title": "Mark of Calth",
-      "seriesUrl": "https://www.goodreads.com/series/40983-the-horus-heresy",
+      "series": {
+        "url": "https://www.goodreads.com/series/40983-the-horus-heresy",
+        "works": {
+          "primary": 54,
+          "total": 329
+        },
+        "name": "The Horus Heresy"
+      },
+      "positionInSeries": 25,
       "author": {
+        "url": "https://www.goodreads.com/author/show/7370933.L_J_Goulding",
         "name": "L.J. Goulding",
         "birthDate": null,
         "deathDate": null,
@@ -1240,14 +1569,24 @@
       ]
     },
     "book": {
+      "url": "https://www.goodreads.com/book/show/21318559-betrayer",
       "description": "The Shadow Crusade has begun. While the Ultramarines reel from Kor Phaeron’s surprise attack on Calth, Lorgar and the rest of the Word Be...",
       "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1394318815i/21318559.jpg",
       "authorUrl": "https://www.goodreads.com/author/show/172152.Aaron_Dembski_Bowden",
       "isbn": 9781849704960,
       "pageCount": 416,
       "title": "Betrayer",
-      "seriesUrl": "https://www.goodreads.com/series/40983-the-horus-heresy",
+      "series": {
+        "url": "https://www.goodreads.com/series/40983-the-horus-heresy",
+        "works": {
+          "primary": 54,
+          "total": 329
+        },
+        "name": "The Horus Heresy"
+      },
+      "positionInSeries": 24,
       "author": {
+        "url": "https://www.goodreads.com/author/show/172152.Aaron_Dembski_Bowden",
         "name": "Aaron Dembski-Bowden",
         "birthDate": null,
         "deathDate": null,
@@ -1279,14 +1618,24 @@
       ]
     },
     "book": {
+      "url": "https://www.goodreads.com/book/show/15803022-angel-exterminatus",
       "description": "Perturabo – master of siegecraft, and executioner of Olympia. Long has he lived in the shadow of his more favoured primarch brothers, fru...",
       "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1345678557i/15803022.jpg",
       "authorUrl": "https://www.goodreads.com/author/show/17729.Graham_McNeill",
       "isbn": 9781849703581,
       "pageCount": 416,
       "title": "Angel Exterminatus",
-      "seriesUrl": "https://www.goodreads.com/series/40983-the-horus-heresy",
+      "series": {
+        "url": "https://www.goodreads.com/series/40983-the-horus-heresy",
+        "works": {
+          "primary": 54,
+          "total": 329
+        },
+        "name": "The Horus Heresy"
+      },
+      "positionInSeries": 23,
       "author": {
+        "url": "https://www.goodreads.com/author/show/17729.Graham_McNeill",
         "name": "Graham McNeill",
         "birthDate": null,
         "deathDate": null,
@@ -1316,14 +1665,24 @@
       ]
     },
     "book": {
+      "url": "https://www.goodreads.com/book/show/13547203-shadows-of-treachery",
       "description": "From the battlefields of Phall and Isstvan, to the haunted shadows of Terra itself – the greatest war in the history of mankind rages on....",
       "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1332439454i/13547203.jpg",
       "authorUrl": "https://www.goodreads.com/author/show/486627.Christian_Dunn",
       "isbn": 9781849703475,
       "pageCount": 416,
       "title": "Shadows of Treachery",
-      "seriesUrl": "https://www.goodreads.com/series/40983-the-horus-heresy",
+      "series": {
+        "url": "https://www.goodreads.com/series/40983-the-horus-heresy",
+        "works": {
+          "primary": 54,
+          "total": 329
+        },
+        "name": "The Horus Heresy"
+      },
+      "positionInSeries": 22,
       "author": {
+        "url": "https://www.goodreads.com/author/show/486627.Christian_Dunn",
         "name": "Christian Dunn",
         "birthDate": null,
         "deathDate": null,
@@ -1344,14 +1703,24 @@
       "progress": []
     },
     "book": {
+      "url": "https://www.goodreads.com/book/show/9969571-ready-player-one",
       "description": "Librarian's note: An alternate cover edition can be found here  IN THE YEAR 2044, reality is an ugly place. The only time teenage Wade Wa...",
       "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1500930947i/9969571.jpg",
       "authorUrl": "https://www.goodreads.com/author/show/31712.Ernest_Cline",
       "isbn": 9780307887436,
       "pageCount": 374,
       "title": "Ready Player One",
-      "seriesUrl": "https://www.goodreads.com/series/221687-ready-player-one",
+      "series": {
+        "url": "https://www.goodreads.com/series/221687-ready-player-one",
+        "works": {
+          "primary": 2,
+          "total": 2
+        },
+        "name": "Ready Player One"
+      },
+      "positionInSeries": 1,
       "author": {
+        "url": "https://www.goodreads.com/author/show/31712.Ernest_Cline",
         "name": "Ernest Cline",
         "birthDate": null,
         "deathDate": null,
@@ -1379,14 +1748,24 @@
       ]
     },
     "book": {
+      "url": "https://www.goodreads.com/book/show/116296.Making_Money",
       "description": "It's an offer you can't refuse.  Who would not to wish to be the man in charge of Ankh-Morpork's Royal Mint and the bank next door?  It's...",
       "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1440503111i/116296.jpg",
       "authorUrl": "https://www.goodreads.com/author/show/1654.Terry_Pratchett",
       "isbn": 9780061161643,
       "pageCount": 394,
       "title": "Making Money",
-      "seriesUrl": "https://www.goodreads.com/series/40650-discworld",
+      "series": {
+        "url": "https://www.goodreads.com/series/40650-discworld",
+        "works": {
+          "primary": 41,
+          "total": 77
+        },
+        "name": "Discworld"
+      },
+      "positionInSeries": 36,
       "author": {
+        "url": "https://www.goodreads.com/author/show/1654.Terry_Pratchett",
         "name": "Terry Pratchett",
         "birthDate": "1948-04-28",
         "deathDate": "2015-03-12",
@@ -1409,14 +1788,24 @@
       "progress": []
     },
     "book": {
+      "url": "https://www.goodreads.com/book/show/16034235-throne-of-glass",
       "description": "In a land without magic, where the king rules with an iron hand, an assassin is summoned to the castle. She comes not to kill the king, b...",
       "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1419066050i/16034235.jpg",
       "authorUrl": "https://www.goodreads.com/author/show/3433047.Sarah_J_Maas",
       "isbn": 9781619630345,
       "pageCount": 406,
       "title": "Throne of Glass",
-      "seriesUrl": "https://www.goodreads.com/series/51288-throne-of-glass",
+      "series": {
+        "url": "https://www.goodreads.com/series/51288-throne-of-glass",
+        "works": {
+          "primary": 7,
+          "total": 32
+        },
+        "name": "Throne of Glass"
+      },
+      "positionInSeries": 1,
       "author": {
+        "url": "https://www.goodreads.com/author/show/3433047.Sarah_J_Maas",
         "name": "Sarah J. Maas",
         "birthDate": null,
         "deathDate": null,
@@ -1448,6 +1837,7 @@
       ]
     },
     "book": {
+      "url": "https://www.goodreads.com/book/show/22544764-uprooted",
       "description": "“Our Dragon doesn’t eat the girls he takes, no matter what stories they tell outside our valley. We hear them sometimes, from travelers p...",
       "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1550135418i/22544764.jpg",
       "authorUrl": "https://www.goodreads.com/author/show/8730.Naomi_Novik",
@@ -1455,6 +1845,7 @@
       "pageCount": 435,
       "title": "Uprooted",
       "author": {
+        "url": "https://www.goodreads.com/author/show/8730.Naomi_Novik",
         "name": "Naomi Novik",
         "birthDate": null,
         "deathDate": null,
@@ -1464,7 +1855,8 @@
         ],
         "websiteUrl": "http://naominovik.com",
         "twitterUrl": "http://www.twitter.com/naominovik"
-      }
+      },
+      "series": null
     }
   },
   {
@@ -1486,13 +1878,23 @@
       ]
     },
     "book": {
+      "url": "https://www.goodreads.com/book/show/13259647-fear-to-tread",
       "description": "Since the earliest days of the Great Crusade, Sanguinius – angelic primarch of the IXth Legion – was ever among the closest and most loya...",
       "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1332287096i/13259647.jpg",
       "authorUrl": "https://www.goodreads.com/author/show/32643.James_Swallow",
       "isbn": 9781849701969,
       "pageCount": 508,
-      "seriesUrl": "https://www.goodreads.com/series/40983-the-horus-heresy",
+      "series": {
+        "url": "https://www.goodreads.com/series/40983-the-horus-heresy",
+        "works": {
+          "primary": 54,
+          "total": 329
+        },
+        "name": "The Horus Heresy"
+      },
+      "positionInSeries": 21,
       "author": {
+        "url": "https://www.goodreads.com/author/show/32643.James_Swallow",
         "name": "James Swallow",
         "birthDate": null,
         "deathDate": null,
@@ -1524,14 +1926,24 @@
       ]
     },
     "book": {
+      "url": "https://www.goodreads.com/book/show/13258970-the-primarchs",
       "description": "Created in the Emperor’s own image, the primarchs had long thought themselves to be princes of the universe and masters of their own dest...",
       "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1403984854i/13258970.jpg",
       "authorUrl": "https://www.goodreads.com/author/show/486627.Christian_Dunn",
       "isbn": 9781849702089,
       "pageCount": 416,
       "title": "The Primarchs",
-      "seriesUrl": "https://www.goodreads.com/series/40983-the-horus-heresy",
+      "series": {
+        "url": "https://www.goodreads.com/series/40983-the-horus-heresy",
+        "works": {
+          "primary": 54,
+          "total": 329
+        },
+        "name": "The Horus Heresy"
+      },
+      "positionInSeries": 20,
       "author": {
+        "url": "https://www.goodreads.com/author/show/486627.Christian_Dunn",
         "name": "Christian Dunn",
         "birthDate": null,
         "deathDate": null,
@@ -1561,14 +1973,24 @@
       ]
     },
     "book": {
+      "url": "https://www.goodreads.com/book/show/11797636-know-no-fear",
       "description": "Unaware of the wider Heresy and following the Warmaster’s increasingly cryptic orders, Roboute Guilliman returns to Ultramar to muster hi...",
       "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1316352870i/11797636.jpg",
       "authorUrl": "https://www.goodreads.com/author/show/33262.Dan_Abnett",
       "isbn": 9781849701341,
       "pageCount": 412,
       "title": "Know No Fear",
-      "seriesUrl": "https://www.goodreads.com/series/40983-the-horus-heresy",
+      "series": {
+        "url": "https://www.goodreads.com/series/40983-the-horus-heresy",
+        "works": {
+          "primary": 54,
+          "total": 329
+        },
+        "name": "The Horus Heresy"
+      },
+      "positionInSeries": 19,
       "author": {
+        "url": "https://www.goodreads.com/author/show/33262.Dan_Abnett",
         "name": "Dan Abnett",
         "birthDate": null,
         "deathDate": null,
@@ -1591,14 +2013,24 @@
       "progress": []
     },
     "book": {
+      "url": "https://www.goodreads.com/book/show/402045.The_Mists_of_Avalon",
       "description": "Here is the magical legend of King Arthur, vividly retold through the eyes and lives of the women who wielded power from behind the thron...",
       "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388857089i/402045.jpg",
       "authorUrl": "https://www.goodreads.com/author/show/4841825.Marion_Zimmer_Bradley",
       "isbn": 9780345350497,
       "pageCount": 884,
       "title": "The Mists of Avalon",
-      "seriesUrl": "https://www.goodreads.com/series/51187-avalon",
+      "series": {
+        "url": "https://www.goodreads.com/series/51187-avalon",
+        "works": {
+          "primary": 7,
+          "total": 8
+        },
+        "name": "Avalon"
+      },
+      "positionInSeries": 1,
       "author": {
+        "url": "https://www.goodreads.com/author/show/4841825.Marion_Zimmer_Bradley",
         "name": "Marion Zimmer Bradley",
         "birthDate": "1930-06-03",
         "deathDate": "1999-09-25",
@@ -1630,14 +2062,24 @@
       ]
     },
     "book": {
+      "url": "https://www.goodreads.com/book/show/228665.The_Eye_of_the_World",
       "description": "The Wheel of Time turns and Ages come and pass. What was, what will be, and what is, may yet fall under the Shadow.  Let the Dragon ride ...",
       "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1337818095i/228665.jpg",
       "authorUrl": "https://www.goodreads.com/author/show/6252.Robert_Jordan",
       "isbn": 9780812511819,
       "pageCount": 814,
       "title": "The Eye of the World",
-      "seriesUrl": "https://www.goodreads.com/series/41526-the-wheel-of-time",
+      "series": {
+        "url": "https://www.goodreads.com/series/41526-the-wheel-of-time",
+        "works": {
+          "primary": 14,
+          "total": 46
+        },
+        "name": "The Wheel of Time"
+      },
+      "positionInSeries": 1,
       "author": {
+        "url": "https://www.goodreads.com/author/show/6252.Robert_Jordan",
         "name": "Robert Jordan",
         "birthDate": "1948-10-17",
         "deathDate": "2007-09-16",
@@ -1666,13 +2108,23 @@
       ]
     },
     "book": {
+      "url": "https://www.goodreads.com/book/show/10838911-deliverance-lost",
       "description": "As the Horus Heresy divides the Imperium, Corax and his few remaining Raven Guard escape the massacre at Isstvan V. Tending to their woun...",
       "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1332438857i/10838911.jpg",
       "authorUrl": "https://www.goodreads.com/author/show/46269.Gav_Thorpe",
       "isbn": 9781849700610,
       "pageCount": 480,
-      "seriesUrl": "https://www.goodreads.com/series/40983-the-horus-heresy",
+      "series": {
+        "url": "https://www.goodreads.com/series/40983-the-horus-heresy",
+        "works": {
+          "primary": 54,
+          "total": 329
+        },
+        "name": "The Horus Heresy"
+      },
+      "positionInSeries": 18,
       "author": {
+        "url": "https://www.goodreads.com/author/show/46269.Gav_Thorpe",
         "name": "Gav Thorpe",
         "birthDate": null,
         "deathDate": null,
@@ -1700,14 +2152,24 @@
       ]
     },
     "book": {
+      "url": "https://www.goodreads.com/book/show/13642.A_Wizard_of_Earthsea",
       "description": "Ged, the greatest sorcerer in all Earthsea, was called Sparrowhawk in his reckless youth.   Hungry for power and knowledge, Sparrowhawk t...",
       "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1353424536i/13642.jpg",
       "authorUrl": "https://www.goodreads.com/author/show/874602.Ursula_K_Le_Guin",
       "isbn": 9780553383041,
       "pageCount": 183,
       "title": "A Wizard of Earthsea",
-      "seriesUrl": "https://www.goodreads.com/series/40909-earthsea-cycle",
+      "series": {
+        "url": "https://www.goodreads.com/series/40909-earthsea-cycle",
+        "works": {
+          "primary": 6,
+          "total": 26
+        },
+        "name": "Earthsea Cycle"
+      },
+      "positionInSeries": 1,
       "author": {
+        "url": "https://www.goodreads.com/author/show/874602.Ursula_K_Le_Guin",
         "name": "Ursula K. Le Guin",
         "birthDate": "1929-10-21",
         "deathDate": "2018-01-22",
@@ -1735,14 +2197,24 @@
       ]
     },
     "book": {
+      "url": "https://www.goodreads.com/book/show/47617.Across_the_Wall",
       "description": "Nicholas Sayre will do anything to get across the Wall.  Thoughts of Lirael and Sam haunt his dreams, and he has come to realize that his...",
       "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1302829636i/47617.jpg",
       "authorUrl": "https://www.goodreads.com/author/show/8347.Garth_Nix",
       "isbn": 9780060747152,
       "pageCount": 415,
       "title": "Across the Wall: A Tale of the Abhorsen and Other Stories",
-      "seriesUrl": "https://www.goodreads.com/series/44888-abhorsen",
+      "series": {
+        "url": "https://www.goodreads.com/series/44888-abhorsen",
+        "works": {
+          "primary": 5,
+          "total": 18
+        },
+        "name": "Abhorsen"
+      },
+      "positionInSeries": 3,
       "author": {
+        "url": "https://www.goodreads.com/author/show/8347.Garth_Nix",
         "name": "Garth Nix",
         "birthDate": null,
         "deathDate": null,
@@ -1774,14 +2246,24 @@
       ]
     },
     "book": {
+      "url": "https://www.goodreads.com/book/show/30329462-goldenhand",
       "description": "For everyone and everything there is a time to die.  Lirael is no longer a shy Second Assistant Librarian. She is the Abhorsen-in-Waiting...",
       "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1471271632i/30329462.jpg",
       "authorUrl": "https://www.goodreads.com/author/show/8347.Garth_Nix",
       "isbn": 9781471404443,
       "pageCount": 423,
       "title": " Goldenhand",
-      "seriesUrl": "https://www.goodreads.com/series/44888-abhorsen",
+      "series": {
+        "url": "https://www.goodreads.com/series/44888-abhorsen",
+        "works": {
+          "primary": 5,
+          "total": 18
+        },
+        "name": "Abhorsen"
+      },
+      "positionInSeries": 5,
       "author": {
+        "url": "https://www.goodreads.com/author/show/8347.Garth_Nix",
         "name": "Garth Nix",
         "birthDate": null,
         "deathDate": null,
@@ -1813,14 +2295,24 @@
       ]
     },
     "book": {
+      "url": "https://www.goodreads.com/book/show/25772375-dune",
       "description": "Before The Matrix, before Star Wars, before Ender's Game and Neuromancer, there was Dune: winner of the prestigious Hugo and Nebula award...",
       "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1434976394i/25772375.jpg",
       "authorUrl": "https://www.goodreads.com/author/show/58.Frank_Herbert",
       "isbn": 9780340960196,
       "pageCount": 577,
       "title": "Dune",
-      "seriesUrl": "https://www.goodreads.com/series/45935-dune",
+      "series": {
+        "url": "https://www.goodreads.com/series/45935-dune",
+        "works": {
+          "primary": 8,
+          "total": 31
+        },
+        "name": "Dune"
+      },
+      "positionInSeries": 1,
       "author": {
+        "url": "https://www.goodreads.com/author/show/58.Frank_Herbert",
         "name": "Frank Herbert",
         "birthDate": "1920-10-08",
         "deathDate": "1986-02-11",
@@ -1850,14 +2342,24 @@
       ]
     },
     "book": {
+      "url": "https://www.goodreads.com/book/show/11161595-the-outcast-dead",
       "description": "The galaxy is burning. The Emperor’s loyal primarchs prepare to do battle with Warmaster Horus and his turncoat Legions on the black sand...",
       "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347433831i/11161595.jpg",
       "authorUrl": "https://www.goodreads.com/author/show/17729.Graham_McNeill",
       "isbn": 9781849700870,
       "pageCount": 416,
       "title": "The Outcast Dead",
-      "seriesUrl": "https://www.goodreads.com/series/40983-the-horus-heresy",
+      "series": {
+        "url": "https://www.goodreads.com/series/40983-the-horus-heresy",
+        "works": {
+          "primary": 54,
+          "total": 329
+        },
+        "name": "The Horus Heresy"
+      },
+      "positionInSeries": 17,
       "author": {
+        "url": "https://www.goodreads.com/author/show/17729.Graham_McNeill",
         "name": "Graham McNeill",
         "birthDate": null,
         "deathDate": null,
@@ -1883,14 +2385,24 @@
       ]
     },
     "book": {
+      "url": "https://www.goodreads.com/book/show/820343.Harry_Potter_and_the_Deathly_Hallows",
       "description": "Harry has been burdened with a dark, dangerous and seemingly impossible task: that of locating and destroying Voldemort's remaining Horcr...",
       "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1374679163i/820343.jpg",
       "authorUrl": "https://www.goodreads.com/author/show/1077326.J_K_Rowling",
       "isbn": 9780747591054,
       "pageCount": 607,
       "title": "Harry Potter and the Deathly Hallows",
-      "seriesUrl": "https://www.goodreads.com/series/45175-harry-potter",
+      "series": {
+        "url": "https://www.goodreads.com/series/45175-harry-potter",
+        "works": {
+          "primary": 7,
+          "total": 16
+        },
+        "name": "Harry Potter"
+      },
+      "positionInSeries": 7,
       "author": {
+        "url": "https://www.goodreads.com/author/show/1077326.J_K_Rowling",
         "name": "J.K. Rowling",
         "birthDate": "1965-07-31",
         "deathDate": null,
@@ -1919,14 +2431,24 @@
       ]
     },
     "book": {
+      "url": "https://www.goodreads.com/book/show/13422727-a-dance-with-dragons",
       "description": "In the aftermath of a colossal battle, the future of the Seven Kingdoms hangs in the balance — beset by newly emerging threats from every...",
       "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1525089970i/13422727.jpg",
       "authorUrl": "https://www.goodreads.com/author/show/346732.George_R_R_Martin",
       "isbn": 9780553801477,
       "pageCount": 1016,
       "title": "A Dance with Dragons",
-      "seriesUrl": "https://www.goodreads.com/series/43790-a-song-of-ice-and-fire",
+      "series": {
+        "url": "https://www.goodreads.com/series/43790-a-song-of-ice-and-fire",
+        "works": {
+          "primary": 7,
+          "total": 21
+        },
+        "name": "A Song of Ice and Fire"
+      },
+      "positionInSeries": 5,
       "author": {
+        "url": "https://www.goodreads.com/author/show/346732.George_R_R_Martin",
         "name": "George R.R. Martin",
         "birthDate": "1948-09-20",
         "deathDate": null,
@@ -1955,14 +2477,24 @@
       ]
     },
     "book": {
+      "url": "https://www.goodreads.com/book/show/13497.A_Feast_for_Crows",
       "description": "Crows will fight over a dead man's flesh, and kill each other for his eyes.  Bloodthirsty, treacherous and cunning, the Lannisters are in...",
       "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1429538615i/13497.jpg",
       "authorUrl": "https://www.goodreads.com/author/show/346732.George_R_R_Martin",
       "isbn": 9780553582024,
       "pageCount": 1061,
       "title": "A Feast for Crows",
-      "seriesUrl": "https://www.goodreads.com/series/43790-a-song-of-ice-and-fire",
+      "series": {
+        "url": "https://www.goodreads.com/series/43790-a-song-of-ice-and-fire",
+        "works": {
+          "primary": 7,
+          "total": 21
+        },
+        "name": "A Song of Ice and Fire"
+      },
+      "positionInSeries": 4,
       "author": {
+        "url": "https://www.goodreads.com/author/show/346732.George_R_R_Martin",
         "name": "George R.R. Martin",
         "birthDate": "1948-09-20",
         "deathDate": null,
@@ -1991,14 +2523,24 @@
       ]
     },
     "book": {
+      "url": "https://www.goodreads.com/book/show/62291.A_Storm_of_Swords",
       "description": "An alternate cover for this isbn can be found here.  Here is the third volume in George R.R. Martin's magnificent cycle of novels that in...",
       "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1571318786i/62291.jpg",
       "authorUrl": "https://www.goodreads.com/author/show/346732.George_R_R_Martin",
       "isbn": 9780553573428,
       "pageCount": 1177,
       "title": "A Storm of Swords",
-      "seriesUrl": "https://www.goodreads.com/series/43790-a-song-of-ice-and-fire",
+      "series": {
+        "url": "https://www.goodreads.com/series/43790-a-song-of-ice-and-fire",
+        "works": {
+          "primary": 7,
+          "total": 21
+        },
+        "name": "A Song of Ice and Fire"
+      },
+      "positionInSeries": 3,
       "author": {
+        "url": "https://www.goodreads.com/author/show/346732.George_R_R_Martin",
         "name": "George R.R. Martin",
         "birthDate": "1948-09-20",
         "deathDate": null,
@@ -2027,14 +2569,24 @@
       ]
     },
     "book": {
+      "url": "https://www.goodreads.com/book/show/10572.A_Clash_of_Kings",
       "description": "A comet the color of blood and flame cuts across the sky. Two great leaders—Lord Eddard Stark and Robert Baratheon—who hold sway over an ...",
       "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1567840212i/10572.jpg",
       "authorUrl": "https://www.goodreads.com/author/show/346732.George_R_R_Martin",
       "isbn": 9780553381696,
       "pageCount": 969,
       "title": "A Clash of Kings",
-      "seriesUrl": "https://www.goodreads.com/series/43790-a-song-of-ice-and-fire",
+      "series": {
+        "url": "https://www.goodreads.com/series/43790-a-song-of-ice-and-fire",
+        "works": {
+          "primary": 7,
+          "total": 21
+        },
+        "name": "A Song of Ice and Fire"
+      },
+      "positionInSeries": 2,
       "author": {
+        "url": "https://www.goodreads.com/author/show/346732.George_R_R_Martin",
         "name": "George R.R. Martin",
         "birthDate": "1948-09-20",
         "deathDate": null,
@@ -2063,14 +2615,24 @@
       ]
     },
     "book": {
+      "url": "https://www.goodreads.com/book/show/5907.The_Hobbit_or_There_and_Back_Again",
       "description": "In a hole in the ground there lived a hobbit. Not a nasty, dirty, wet hole, filled with the ends of worms and an oozy smell, nor yet a dr...",
       "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1546071216i/5907.jpg",
       "authorUrl": "https://www.goodreads.com/author/show/656983.J_R_R_Tolkien",
       "isbn": 9780618260300,
       "pageCount": 366,
       "title": "The Hobbit, or There and Back Again",
-      "seriesUrl": "https://www.goodreads.com/series/203438-the-hobbit",
+      "series": {
+        "url": "https://www.goodreads.com/series/203438-the-hobbit",
+        "works": {
+          "primary": 1,
+          "total": 3
+        },
+        "name": ""
+      },
+      "positionInSeries": null,
       "author": {
+        "url": "https://www.goodreads.com/author/show/656983.J_R_R_Tolkien",
         "name": "J.R.R. Tolkien",
         "birthDate": "1892-01-03",
         "deathDate": "1973-09-02",
@@ -2098,14 +2660,24 @@
       ]
     },
     "book": {
+      "url": "https://www.goodreads.com/book/show/49891.The_Return_of_the_King",
       "description": "As the Shadow of Mordor grows across the land, the Companions of the Ring have become involved in separate adventures. Aragorn, revealed ...",
       "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1295996565i/49891.jpg",
       "authorUrl": "https://www.goodreads.com/author/show/656983.J_R_R_Tolkien",
       "isbn": 9780618002245,
       "pageCount": 410,
       "title": "The Return of the King",
-      "seriesUrl": "https://www.goodreads.com/series/66175-the-lord-of-the-rings",
+      "series": {
+        "url": "https://www.goodreads.com/series/66175-the-lord-of-the-rings",
+        "works": {
+          "primary": 3,
+          "total": 7
+        },
+        "name": "The Lord of the Rings"
+      },
+      "positionInSeries": 3,
       "author": {
+        "url": "https://www.goodreads.com/author/show/656983.J_R_R_Tolkien",
         "name": "J.R.R. Tolkien",
         "birthDate": "1892-01-03",
         "deathDate": "1973-09-02",
@@ -2133,14 +2705,24 @@
       ]
     },
     "book": {
+      "url": "https://www.goodreads.com/book/show/6753727-the-chronicles-of-narnia",
       "description": "C. S. Lewis was famous both as a fiction writer and as a Christian thinker, and scholars sometimes divide his personality in two. Yet a l...",
       "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1357470998i/6753727.jpg",
       "authorUrl": "https://www.goodreads.com/author/show/1069006.C_S_Lewis",
       "isbn": 9781435117150,
       "pageCount": 800,
       "title": "The Chronicles of Narnia",
-      "seriesUrl": "https://www.goodreads.com/series/49073-the-chronicles-of-narnia-publication-order",
+      "series": {
+        "url": "https://www.goodreads.com/series/49073-the-chronicles-of-narnia-publication-order",
+        "works": {
+          "primary": 7,
+          "total": 11
+        },
+        "name": "The Chronicles of Narnia (Publication Order)"
+      },
+      "positionInSeries": 1,
       "author": {
+        "url": "https://www.goodreads.com/author/show/1069006.C_S_Lewis",
         "name": "C.S. Lewis",
         "birthDate": "1898-11-29",
         "deathDate": "1963-11-22",
@@ -2168,14 +2750,24 @@
       ]
     },
     "book": {
+      "url": "https://www.goodreads.com/book/show/6148028-catching-fire",
       "description": "Sparks are igniting. Flames are spreading. And the Capitol wants revenge.   Against all odds, Katniss Everdeen has won the Hunger Games. ...",
       "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1586722941i/6148028.jpg",
       "authorUrl": "https://www.goodreads.com/author/show/153394.Suzanne_Collins",
       "isbn": 9780439023498,
       "pageCount": 391,
       "title": "Catching Fire",
-      "seriesUrl": "https://www.goodreads.com/series/73758-the-hunger-games",
+      "series": {
+        "url": "https://www.goodreads.com/series/73758-the-hunger-games",
+        "works": {
+          "primary": 3,
+          "total": 6
+        },
+        "name": "The Hunger Games"
+      },
+      "positionInSeries": 2,
       "author": {
+        "url": "https://www.goodreads.com/author/show/153394.Suzanne_Collins",
         "name": "Suzanne Collins",
         "birthDate": "1962-08-11",
         "deathDate": null,
@@ -2203,14 +2795,24 @@
       ]
     },
     "book": {
+      "url": "https://www.goodreads.com/book/show/7260188-mockingjay",
       "description": "My name is Katniss Everdeen. Why am I not dead? I should be dead.  Katniss Everdeen, girl on fire, has survived, even though her home has...",
       "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1618519111i/7260188.jpg",
       "authorUrl": "https://www.goodreads.com/author/show/153394.Suzanne_Collins",
       "isbn": 9780439023511,
       "pageCount": 398,
       "title": "Mockingjay",
-      "seriesUrl": "https://www.goodreads.com/series/73758-the-hunger-games",
+      "series": {
+        "url": "https://www.goodreads.com/series/73758-the-hunger-games",
+        "works": {
+          "primary": 3,
+          "total": 6
+        },
+        "name": "The Hunger Games"
+      },
+      "positionInSeries": 3,
       "author": {
+        "url": "https://www.goodreads.com/author/show/153394.Suzanne_Collins",
         "name": "Suzanne Collins",
         "birthDate": "1962-08-11",
         "deathDate": null,
@@ -2238,14 +2840,24 @@
       ]
     },
     "book": {
+      "url": "https://www.goodreads.com/book/show/8697285-age-of-darkness",
       "description": "After the betrayal at Isstvan, Horus begins his campaign against the Emperor, a galaxy-wide war that can lead only to Terra. But the road...",
       "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1282309809i/8697285.jpg",
       "authorUrl": "https://www.goodreads.com/author/show/486627.Christian_Dunn",
       "isbn": 9781849700368,
       "pageCount": 416,
       "title": "Age of Darkness",
-      "seriesUrl": "https://www.goodreads.com/series/40983-the-horus-heresy",
+      "series": {
+        "url": "https://www.goodreads.com/series/40983-the-horus-heresy",
+        "works": {
+          "primary": 54,
+          "total": 329
+        },
+        "name": "The Horus Heresy"
+      },
+      "positionInSeries": 16,
       "author": {
+        "url": "https://www.goodreads.com/author/show/486627.Christian_Dunn",
         "name": "Christian Dunn",
         "birthDate": null,
         "deathDate": null,
@@ -2271,14 +2883,24 @@
       ]
     },
     "book": {
+      "url": "https://www.goodreads.com/book/show/7922982-the-first-heretic",
       "description": "Amidst the galaxy-wide war of the Great Crusade, the Emperor castigates the Word Bearers for their worship. Distraught at this judgement,...",
       "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1280760489i/7922982.jpg",
       "authorUrl": "https://www.goodreads.com/author/show/172152.Aaron_Dembski_Bowden",
       "isbn": 9781844168842,
       "pageCount": 502,
       "title": "The First Heretic",
-      "seriesUrl": "https://www.goodreads.com/series/40983-the-horus-heresy",
+      "series": {
+        "url": "https://www.goodreads.com/series/40983-the-horus-heresy",
+        "works": {
+          "primary": 54,
+          "total": 329
+        },
+        "name": "The Horus Heresy"
+      },
+      "positionInSeries": 14,
       "author": {
+        "url": "https://www.goodreads.com/author/show/172152.Aaron_Dembski_Bowden",
         "name": "Aaron Dembski-Bowden",
         "birthDate": null,
         "deathDate": null,
@@ -2306,14 +2928,24 @@
       ]
     },
     "book": {
+      "url": "https://www.goodreads.com/book/show/7113690-nemesis",
       "description": "After the horrors of Istvaan V, Horus declares outright war against the Imperium. In the shadows of the Emperor's Palace, powerful figure...",
       "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1280757258i/7113690.jpg",
       "authorUrl": "https://www.goodreads.com/author/show/32643.James_Swallow",
       "isbn": 9781844168682,
       "pageCount": 507,
       "title": "Nemesis",
-      "seriesUrl": "https://www.goodreads.com/series/40983-the-horus-heresy",
+      "series": {
+        "url": "https://www.goodreads.com/series/40983-the-horus-heresy",
+        "works": {
+          "primary": 54,
+          "total": 329
+        },
+        "name": "The Horus Heresy"
+      },
+      "positionInSeries": 13,
       "author": {
+        "url": "https://www.goodreads.com/author/show/32643.James_Swallow",
         "name": "James Swallow",
         "birthDate": null,
         "deathDate": null,
@@ -2341,14 +2973,24 @@
       ]
     },
     "book": {
+      "url": "https://www.goodreads.com/book/show/6022863-fallen-angels",
       "description": "As news of Horus’s treachery spreads, the Great Crusade grinds to a halt as the primarchs and their Legions decide where their loyalty li...",
       "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388385143i/6022863.jpg",
       "authorUrl": "https://www.goodreads.com/author/show/167737.Mike_Lee",
       "isbn": 9781844167296,
       "pageCount": 416,
       "title": "Fallen Angels",
-      "seriesUrl": "https://www.goodreads.com/series/40983-the-horus-heresy",
+      "series": {
+        "url": "https://www.goodreads.com/series/40983-the-horus-heresy",
+        "works": {
+          "primary": 54,
+          "total": 329
+        },
+        "name": "The Horus Heresy"
+      },
+      "positionInSeries": 11,
       "author": {
+        "url": "https://www.goodreads.com/author/show/167737.Mike_Lee",
         "name": "Mike  Lee",
         "birthDate": null,
         "deathDate": null,
@@ -2374,14 +3016,24 @@
       ]
     },
     "book": {
+      "url": "https://www.goodreads.com/book/show/22571988-tales-of-heresy",
       "description": "Book ten in the New York Times bestselling seriesIt is the 31st millennium, and mankind has spread across the galaxy. When Horus the Warm...",
       "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1405259877i/22571988.jpg",
       "authorUrl": "https://www.goodreads.com/author/show/398110.Nick_Kyme",
       "isbn": 9781849708180,
       "pageCount": 416,
       "title": "Tales of Heresy",
-      "seriesUrl": "https://www.goodreads.com/series/40983-the-horus-heresy",
+      "series": {
+        "url": "https://www.goodreads.com/series/40983-the-horus-heresy",
+        "works": {
+          "primary": 54,
+          "total": 329
+        },
+        "name": "The Horus Heresy"
+      },
+      "positionInSeries": 10,
       "author": {
+        "url": "https://www.goodreads.com/author/show/398110.Nick_Kyme",
         "name": "Nick Kyme",
         "birthDate": null,
         "deathDate": null,
@@ -2409,14 +3061,24 @@
       ]
     },
     "book": {
+      "url": "https://www.goodreads.com/book/show/6140039-battle-for-the-abyss",
       "description": "Now that news of Horus's treachery is in the open, a time of testing has come. Some Legions have already declared their allegiance to the...",
       "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328182190i/6140039.jpg",
       "authorUrl": "https://www.goodreads.com/author/show/17740.Ben_Counter",
       "isbn": 9781844166572,
       "pageCount": 416,
       "title": "Battle for the Abyss",
-      "seriesUrl": "https://www.goodreads.com/series/40983-the-horus-heresy",
+      "series": {
+        "url": "https://www.goodreads.com/series/40983-the-horus-heresy",
+        "works": {
+          "primary": 54,
+          "total": 329
+        },
+        "name": "The Horus Heresy"
+      },
+      "positionInSeries": 8,
       "author": {
+        "url": "https://www.goodreads.com/author/show/17740.Ben_Counter",
         "name": "Ben Counter",
         "birthDate": null,
         "deathDate": null,
@@ -2441,14 +3103,24 @@
       ]
     },
     "book": {
+      "url": "https://www.goodreads.com/book/show/768929.Descent_of_Angels",
       "description": "The next novel in the ground-breaking, bestselling series that tells the story of the Horus Heresy – the civil war that nearly tore the h...",
       "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1332438082i/768929.jpg",
       "authorUrl": "https://www.goodreads.com/author/show/158033.Mitchel_Scanlon",
       "isbn": 9781844165087,
       "pageCount": 416,
       "title": "Descent of Angels",
-      "seriesUrl": "https://www.goodreads.com/series/40983-the-horus-heresy",
+      "series": {
+        "url": "https://www.goodreads.com/series/40983-the-horus-heresy",
+        "works": {
+          "primary": 54,
+          "total": 329
+        },
+        "name": "The Horus Heresy"
+      },
+      "positionInSeries": 6,
       "author": {
+        "url": "https://www.goodreads.com/author/show/158033.Mitchel_Scanlon",
         "name": "Mitchel Scanlon",
         "birthDate": null,
         "deathDate": null,
@@ -2473,14 +3145,24 @@
       ]
     },
     "book": {
+      "url": "https://www.goodreads.com/book/show/80155.The_Flight_of_the_Eisenstein",
       "description": "Having witnessed the events on Istvaan III, Deathguard Captain Garro seizes a ship and heads to Terra to warn the Emperor of Horus's trea...",
       "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1387725809i/80155.jpg",
       "authorUrl": "https://www.goodreads.com/author/show/32643.James_Swallow",
       "isbn": 9781844164592,
       "pageCount": 416,
       "title": "The Flight of the Eisenstein",
-      "seriesUrl": "https://www.goodreads.com/series/40983-the-horus-heresy",
+      "series": {
+        "url": "https://www.goodreads.com/series/40983-the-horus-heresy",
+        "works": {
+          "primary": 54,
+          "total": 329
+        },
+        "name": "The Horus Heresy"
+      },
+      "positionInSeries": 4,
       "author": {
+        "url": "https://www.goodreads.com/author/show/32643.James_Swallow",
         "name": "James Swallow",
         "birthDate": null,
         "deathDate": null,
@@ -2508,14 +3190,24 @@
       ]
     },
     "book": {
+      "url": "https://www.goodreads.com/book/show/21412247-galaxy-in-flames",
       "description": "The third Horus Heresy title returns in mass market paperback formatHaving made a miraculous recovery from the grievous injuries he suffe...",
       "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1405259903i/21412247.jpg",
       "authorUrl": "https://www.goodreads.com/author/show/17740.Ben_Counter",
       "isbn": 9781849707541,
       "pageCount": 416,
       "title": "Galaxy in Flames",
-      "seriesUrl": "https://www.goodreads.com/series/40983-the-horus-heresy",
+      "series": {
+        "url": "https://www.goodreads.com/series/40983-the-horus-heresy",
+        "works": {
+          "primary": 54,
+          "total": 329
+        },
+        "name": "The Horus Heresy"
+      },
+      "positionInSeries": 3,
       "author": {
+        "url": "https://www.goodreads.com/author/show/17740.Ben_Counter",
         "name": "Ben Counter",
         "birthDate": null,
         "deathDate": null,
@@ -2540,14 +3232,24 @@
       ]
     },
     "book": {
+      "url": "https://www.goodreads.com/book/show/16065004-shadows-of-self",
       "description": "Shadows of Self shows Mistborn’s society evolving as technology and magic mix, the economy grows, democracy contends with corruption, and...",
       "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1435053013i/16065004.jpg",
       "authorUrl": "https://www.goodreads.com/author/show/38550.Brandon_Sanderson",
       "isbn": 9780765378552,
       "pageCount": 383,
       "title": "Shadows of Self",
-      "seriesUrl": "https://www.goodreads.com/series/40910-the-mistborn-saga",
+      "series": {
+        "url": "https://www.goodreads.com/series/40910-the-mistborn-saga",
+        "works": {
+          "primary": 7,
+          "total": 20
+        },
+        "name": "The Mistborn Saga"
+      },
+      "positionInSeries": 5,
       "author": {
+        "url": "https://www.goodreads.com/author/show/38550.Brandon_Sanderson",
         "name": "Brandon Sanderson",
         "birthDate": null,
         "deathDate": null,
@@ -2579,14 +3281,24 @@
       ]
     },
     "book": {
+      "url": "https://www.goodreads.com/book/show/24019186-the-bands-of-mourning",
       "description": "From #1 New York Times bestselling author Brandon Sanderson, the Mistborn series is a heist story of political intrigue and magical, mart...",
       "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1450135215i/24019186.jpg",
       "authorUrl": "https://www.goodreads.com/author/show/38550.Brandon_Sanderson",
       "isbn": 9780765378576,
       "pageCount": 447,
       "title": "The Bands of Mourning",
-      "seriesUrl": "https://www.goodreads.com/series/40910-the-mistborn-saga",
+      "series": {
+        "url": "https://www.goodreads.com/series/40910-the-mistborn-saga",
+        "works": {
+          "primary": 7,
+          "total": 20
+        },
+        "name": "The Mistborn Saga"
+      },
+      "positionInSeries": 6,
       "author": {
+        "url": "https://www.goodreads.com/author/show/38550.Brandon_Sanderson",
         "name": "Brandon Sanderson",
         "birthDate": null,
         "deathDate": null,
@@ -2614,14 +3326,24 @@
       ]
     },
     "book": {
+      "url": "https://www.goodreads.com/book/show/10803121-the-alloy-of-law",
       "description": "Three hundred years after the events of the Mistborn trilogy, Scadrial is now on the verge of modernity, with railroads to supplement the...",
       "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1442889632i/10803121.jpg",
       "authorUrl": "https://www.goodreads.com/author/show/38550.Brandon_Sanderson",
       "isbn": 9780765330420,
       "pageCount": 332,
       "title": "The Alloy of Law",
-      "seriesUrl": "https://www.goodreads.com/series/40910-the-mistborn-saga",
+      "series": {
+        "url": "https://www.goodreads.com/series/40910-the-mistborn-saga",
+        "works": {
+          "primary": 7,
+          "total": 20
+        },
+        "name": "The Mistborn Saga"
+      },
+      "positionInSeries": 4,
       "author": {
+        "url": "https://www.goodreads.com/author/show/38550.Brandon_Sanderson",
         "name": "Brandon Sanderson",
         "birthDate": null,
         "deathDate": null,
@@ -2649,14 +3371,24 @@
       ]
     },
     "book": {
+      "url": "https://www.goodreads.com/book/show/2767793-the-hero-of-ages",
       "description": "Tricked into releasing the evil spirit Ruin while attempting to close the Well of Ascension, new emperor Elend Venture and his wife, the ...",
       "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1480717763i/2767793.jpg",
       "authorUrl": "https://www.goodreads.com/author/show/38550.Brandon_Sanderson",
       "isbn": 9780765316899,
       "pageCount": 572,
       "title": "The Hero of Ages",
-      "seriesUrl": "https://www.goodreads.com/series/40910-the-mistborn-saga",
+      "series": {
+        "url": "https://www.goodreads.com/series/40910-the-mistborn-saga",
+        "works": {
+          "primary": 7,
+          "total": 20
+        },
+        "name": "The Mistborn Saga"
+      },
+      "positionInSeries": 3,
       "author": {
+        "url": "https://www.goodreads.com/author/show/38550.Brandon_Sanderson",
         "name": "Brandon Sanderson",
         "birthDate": null,
         "deathDate": null,
@@ -2684,14 +3416,24 @@
       ]
     },
     "book": {
+      "url": "https://www.goodreads.com/book/show/68429.The_Well_of_Ascension",
       "description": "Vin, the street urchin who has grown into the most powerful Mistborn in the land, and Elend Venture, the idealistic young nobleman who lo...",
       "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1480717596i/68429.jpg",
       "authorUrl": "https://www.goodreads.com/author/show/38550.Brandon_Sanderson",
       "isbn": 9780765316882,
       "pageCount": 590,
       "title": "The Well of Ascension",
-      "seriesUrl": "https://www.goodreads.com/series/40910-the-mistborn-saga",
+      "series": {
+        "url": "https://www.goodreads.com/series/40910-the-mistborn-saga",
+        "works": {
+          "primary": 7,
+          "total": 20
+        },
+        "name": "The Mistborn Saga"
+      },
+      "positionInSeries": 2,
       "author": {
+        "url": "https://www.goodreads.com/author/show/38550.Brandon_Sanderson",
         "name": "Brandon Sanderson",
         "birthDate": null,
         "deathDate": null,
@@ -2719,14 +3461,24 @@
       ]
     },
     "book": {
+      "url": "https://www.goodreads.com/book/show/68428.Mistborn",
       "description": "\n  What if the whole world were a dead, blasted wasteland?\n  Mistborn For a thousand years the ash fell and no flowers bloomed. For a tho...",
       "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1617768316i/68428.jpg",
       "authorUrl": "https://www.goodreads.com/author/show/38550.Brandon_Sanderson",
       "isbn": 9780765311788,
       "pageCount": 541,
       "title": "Mistborn: The Final Empire",
-      "seriesUrl": "https://www.goodreads.com/series/40910-the-mistborn-saga",
+      "series": {
+        "url": "https://www.goodreads.com/series/40910-the-mistborn-saga",
+        "works": {
+          "primary": 7,
+          "total": 20
+        },
+        "name": "The Mistborn Saga"
+      },
+      "positionInSeries": 1,
       "author": {
+        "url": "https://www.goodreads.com/author/show/38550.Brandon_Sanderson",
         "name": "Brandon Sanderson",
         "birthDate": null,
         "deathDate": null,
@@ -2749,14 +3501,24 @@
       "progress": []
     },
     "book": {
+      "url": "https://www.goodreads.com/book/show/25679359-xenos",
       "description": "The Inquisition moves amongst mankind like an avenging shadow, striking down the enemies of humanity with uncompromising ruthlessness. Wh...",
       "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1433629843i/25679359.jpg",
       "authorUrl": "https://www.goodreads.com/author/show/33262.Dan_Abnett",
       "isbn": 9781849708722,
       "pageCount": 416,
       "title": "Xenos",
-      "seriesUrl": "https://www.goodreads.com/series/43744-eisenhorn",
+      "series": {
+        "url": "https://www.goodreads.com/series/43744-eisenhorn",
+        "works": {
+          "primary": 4,
+          "total": 13
+        },
+        "name": "Eisenhorn"
+      },
+      "positionInSeries": 1,
       "author": {
+        "url": "https://www.goodreads.com/author/show/33262.Dan_Abnett",
         "name": "Dan Abnett",
         "birthDate": null,
         "deathDate": null,
@@ -2792,14 +3554,24 @@
       ]
     },
     "book": {
+      "url": "https://www.goodreads.com/book/show/20662728-clariel",
       "description": "Sixteen-year-old Clariel is not adjusting well to her new life in the city of Belisaere, the capital of the Old Kingdom. She misses roami...",
       "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1393877442i/20662728.jpg",
       "authorUrl": "https://www.goodreads.com/author/show/8347.Garth_Nix",
       "isbn": 9780061561559,
       "pageCount": 382,
       "title": "Clariel: The Lost Abhorsen",
-      "seriesUrl": "https://www.goodreads.com/series/44888-abhorsen",
+      "series": {
+        "url": "https://www.goodreads.com/series/44888-abhorsen",
+        "works": {
+          "primary": 5,
+          "total": 18
+        },
+        "name": "Abhorsen"
+      },
+      "positionInSeries": 4,
       "author": {
+        "url": "https://www.goodreads.com/author/show/8347.Garth_Nix",
         "name": "Garth Nix",
         "birthDate": null,
         "deathDate": null,
@@ -2827,14 +3599,24 @@
       ]
     },
     "book": {
+      "url": "https://www.goodreads.com/book/show/47666.Abhorsen",
       "description": "When the ninth gate calls, who can resist its summons?  An old evil has arisen - freed from its subterranean prison and seeking to escape...",
       "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327954221i/47666.jpg",
       "authorUrl": "https://www.goodreads.com/author/show/8347.Garth_Nix",
       "isbn": 9780007137350,
       "pageCount": 396,
       "title": "Abhorsen",
-      "seriesUrl": "https://www.goodreads.com/series/44888-abhorsen",
+      "series": {
+        "url": "https://www.goodreads.com/series/44888-abhorsen",
+        "works": {
+          "primary": 5,
+          "total": 18
+        },
+        "name": "Abhorsen"
+      },
+      "positionInSeries": 3,
       "author": {
+        "url": "https://www.goodreads.com/author/show/8347.Garth_Nix",
         "name": "Garth Nix",
         "birthDate": null,
         "deathDate": null,
@@ -2862,14 +3644,24 @@
       ]
     },
     "book": {
+      "url": "https://www.goodreads.com/book/show/1042542.Sabriel",
       "description": "Sabriel is the daughter of the Mage Abhorsen. Ever since she was a tiny child, she has lived outside the Wall of the Old Kingdom--far awa...",
       "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1374876120i/1042542.jpg",
       "authorUrl": "https://www.goodreads.com/author/show/8347.Garth_Nix",
       "isbn": 9780007137312,
       "pageCount": 367,
       "title": "Sabriel",
-      "seriesUrl": "https://www.goodreads.com/series/195520-the-old-kingdom",
+      "series": {
+        "url": "https://www.goodreads.com/series/195520-the-old-kingdom",
+        "works": {
+          "primary": 6,
+          "total": 13
+        },
+        "name": "The Old Kingdom"
+      },
+      "positionInSeries": 1,
       "author": {
+        "url": "https://www.goodreads.com/author/show/8347.Garth_Nix",
         "name": "Garth Nix",
         "birthDate": null,
         "deathDate": null,
@@ -2897,14 +3689,24 @@
       ]
     },
     "book": {
+      "url": "https://www.goodreads.com/book/show/119324.The_Subtle_Knife",
       "description": "Lost in a new world, Lyra finds Will—a boy on the run, a murderer—a worthy and welcome ally. For this is a world where soul-eating Specte...",
       "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1505766360i/119324.jpg",
       "authorUrl": "https://www.goodreads.com/author/show/3618.Philip_Pullman",
       "isbn": 9780679879251,
       "pageCount": 326,
       "title": "The Subtle Knife",
-      "seriesUrl": "https://www.goodreads.com/series/44427-his-dark-materials",
+      "series": {
+        "url": "https://www.goodreads.com/series/44427-his-dark-materials",
+        "works": {
+          "primary": 3,
+          "total": 8
+        },
+        "name": "His Dark Materials"
+      },
+      "positionInSeries": 2,
       "author": {
+        "url": "https://www.goodreads.com/author/show/3618.Philip_Pullman",
         "name": "Philip Pullman",
         "birthDate": "1946-10-19",
         "deathDate": null,
@@ -2927,14 +3729,24 @@
       ]
     },
     "book": {
+      "url": "https://www.goodreads.com/book/show/119322.The_Golden_Compass",
       "description": "Lyra is rushing to the cold, far North, where witch clans and armored bears rule. North, where the Gobblers take the children they steal-...",
       "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1505766203i/119322.jpg",
       "authorUrl": "https://www.goodreads.com/author/show/3618.Philip_Pullman",
       "isbn": 9780679879244,
       "pageCount": 399,
       "title": "Northern Lights",
-      "seriesUrl": "https://www.goodreads.com/series/44427-his-dark-materials",
+      "series": {
+        "url": "https://www.goodreads.com/series/44427-his-dark-materials",
+        "works": {
+          "primary": 3,
+          "total": 8
+        },
+        "name": "His Dark Materials"
+      },
+      "positionInSeries": 1,
       "author": {
+        "url": "https://www.goodreads.com/author/show/3618.Philip_Pullman",
         "name": "Philip Pullman",
         "birthDate": "1946-10-19",
         "deathDate": null,
@@ -2957,14 +3769,24 @@
       ]
     },
     "book": {
+      "url": "https://www.goodreads.com/book/show/112537.Rendezvous_with_Rama",
       "description": "At first, only a few things are known about the celestial object that astronomers dub Rama. It is huge, weighing more than ten trillion t...",
       "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1405456427i/112537.jpg",
       "authorUrl": "https://www.goodreads.com/author/show/7779.Arthur_C_Clarke",
       "isbn": 9781857231588,
       "pageCount": 243,
       "title": "Rendezvous with Rama",
-      "seriesUrl": "https://www.goodreads.com/series/49121-rama",
+      "series": {
+        "url": "https://www.goodreads.com/series/49121-rama",
+        "works": {
+          "primary": 4,
+          "total": 11
+        },
+        "name": "Rama"
+      },
+      "positionInSeries": 1,
       "author": {
+        "url": "https://www.goodreads.com/author/show/7779.Arthur_C_Clarke",
         "name": "Arthur C. Clarke",
         "birthDate": "1917-12-16",
         "deathDate": "2008-03-18",
@@ -2990,14 +3812,24 @@
       ]
     },
     "book": {
+      "url": "https://www.goodreads.com/book/show/7967.Speaker_for_the_Dead",
       "description": "Now available in mass market, the revised, definitive edition of the Hugo and Nebula Award-winning classic. In this second book in the sa...",
       "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1295660894i/7967.jpg",
       "authorUrl": "https://www.goodreads.com/author/show/589.Orson_Scott_Card",
       "isbn": 9780812550757,
       "pageCount": 382,
       "title": "Speaker for the Dead",
-      "seriesUrl": "https://www.goodreads.com/series/43963-ender-s-saga",
+      "series": {
+        "url": "https://www.goodreads.com/series/43963-ender-s-saga",
+        "works": {
+          "primary": 4,
+          "total": 7
+        },
+        "name": "Ender's Saga"
+      },
+      "positionInSeries": 2,
       "author": {
+        "url": "https://www.goodreads.com/author/show/589.Orson_Scott_Card",
         "name": "Orson Scott Card",
         "birthDate": "1951-08-24",
         "deathDate": null,
@@ -3026,14 +3858,24 @@
       ]
     },
     "book": {
+      "url": "https://www.goodreads.com/book/show/375802.Ender_s_Game",
       "description": "Andrew \"Ender\" Wiggin thinks he is playing computer simulated war games; he is, in fact, engaged in something far more desperate. The res...",
       "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1408303130i/375802.jpg",
       "authorUrl": "https://www.goodreads.com/author/show/589.Orson_Scott_Card",
       "isbn": 9780812550702,
       "pageCount": 324,
       "title": "Ender's Game",
-      "seriesUrl": "https://www.goodreads.com/series/43963-ender-s-saga",
+      "series": {
+        "url": "https://www.goodreads.com/series/43963-ender-s-saga",
+        "works": {
+          "primary": 4,
+          "total": 7
+        },
+        "name": "Ender's Saga"
+      },
+      "positionInSeries": 1,
       "author": {
+        "url": "https://www.goodreads.com/author/show/589.Orson_Scott_Card",
         "name": "Orson Scott Card",
         "birthDate": "1951-08-24",
         "deathDate": null,
@@ -3062,14 +3904,24 @@
       ]
     },
     "book": {
+      "url": "https://www.goodreads.com/book/show/295169.The_Wind_Singer",
       "description": "The first in a trilogy, The Wind Singer is a mesmerizing and remarkably realized fantasy novel full of adventure, suspense, humor and war...",
       "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1293635554i/295169.jpg",
       "authorUrl": "https://www.goodreads.com/author/show/46130.William_Nicholson",
       "isbn": 9780786814176,
       "pageCount": 486,
       "title": "The Wind Singer",
-      "seriesUrl": "https://www.goodreads.com/series/52487-the-wind-on-fire-trilogy",
+      "series": {
+        "url": "https://www.goodreads.com/series/52487-the-wind-on-fire-trilogy",
+        "works": {
+          "primary": 3,
+          "total": 4
+        },
+        "name": "The Wind on Fire Trilogy"
+      },
+      "positionInSeries": 1,
       "author": {
+        "url": "https://www.goodreads.com/author/show/46130.William_Nicholson",
         "name": "William Nicholson",
         "birthDate": "1948-01-12",
         "deathDate": null,
@@ -3095,14 +3947,24 @@
       ]
     },
     "book": {
+      "url": "https://www.goodreads.com/book/show/295198.Slaves_of_the_Mastery",
       "description": "Five years have passed. The city of Aramanth has become kinder--weaker.  When the ruthless soldiers of the Mastery strike, the city is bu...",
       "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1386920617i/295198.jpg",
       "authorUrl": "https://www.goodreads.com/author/show/46130.William_Nicholson",
       "isbn": 9780749749019,
       "pageCount": 340,
       "title": "Slaves of the Mastery ",
-      "seriesUrl": "https://www.goodreads.com/series/52487-the-wind-on-fire-trilogy",
+      "series": {
+        "url": "https://www.goodreads.com/series/52487-the-wind-on-fire-trilogy",
+        "works": {
+          "primary": 3,
+          "total": 4
+        },
+        "name": "The Wind on Fire Trilogy"
+      },
+      "positionInSeries": 2,
       "author": {
+        "url": "https://www.goodreads.com/author/show/46130.William_Nicholson",
         "name": "William Nicholson",
         "birthDate": "1948-01-12",
         "deathDate": null,
@@ -3128,14 +3990,24 @@
       ]
     },
     "book": {
+      "url": "https://www.goodreads.com/book/show/2870651-necropolis",
       "description": "Hong Kong has been taken over by the Old Ones and has become Necropolis, City of the Dead. Once in, there is no way out… Evil has been un...",
       "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348477584i/2870651.jpg",
       "authorUrl": "https://www.goodreads.com/author/show/32590.Anthony_Horowitz",
       "isbn": 1844286223,
       "pageCount": 388,
       "title": "Necropolis",
-      "seriesUrl": "https://www.goodreads.com/series/52308-the-power-of-five",
+      "series": {
+        "url": "https://www.goodreads.com/series/52308-the-power-of-five",
+        "works": {
+          "primary": 5,
+          "total": 9
+        },
+        "name": "The Power of Five"
+      },
+      "positionInSeries": 4,
       "author": {
+        "url": "https://www.goodreads.com/author/show/32590.Anthony_Horowitz",
         "name": "Anthony Horowitz",
         "birthDate": null,
         "deathDate": null,
@@ -3164,14 +4036,24 @@
       ]
     },
     "book": {
+      "url": "https://www.goodreads.com/book/show/107664.Raven_s_Gate",
       "description": "He always knew he was different. First there were the dreams. Then the deaths began.   When Matt Freeman gets into trouble with the polic...",
       "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328842690i/107664.jpg",
       "authorUrl": "https://www.goodreads.com/author/show/32590.Anthony_Horowitz",
       "isbn": 9780439680097,
       "pageCount": 270,
       "title": "Raven's Gate",
-      "seriesUrl": "https://www.goodreads.com/series/52308-the-power-of-five",
+      "series": {
+        "url": "https://www.goodreads.com/series/52308-the-power-of-five",
+        "works": {
+          "primary": 5,
+          "total": 9
+        },
+        "name": "The Power of Five"
+      },
+      "positionInSeries": 1,
       "author": {
+        "url": "https://www.goodreads.com/author/show/32590.Anthony_Horowitz",
         "name": "Anthony Horowitz",
         "birthDate": null,
         "deathDate": null,
@@ -3200,14 +4082,24 @@
       ]
     },
     "book": {
+      "url": "https://www.goodreads.com/book/show/94319.Ark_Angel",
       "description": "The sniper’s bullet nearly killed him. But Alex Rider managed to survive . . . just in time for more trouble to come his way. When kidnap...",
       "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1311648941i/94319.jpg",
       "authorUrl": "https://www.goodreads.com/author/show/32590.Anthony_Horowitz",
       "isbn": 9780142407387,
       "pageCount": 323,
       "title": "Ark Angel",
-      "seriesUrl": "https://www.goodreads.com/series/41087-alex-rider",
+      "series": {
+        "url": "https://www.goodreads.com/series/41087-alex-rider",
+        "works": {
+          "primary": 12,
+          "total": 36
+        },
+        "name": "Alex Rider"
+      },
+      "positionInSeries": 6,
       "author": {
+        "url": "https://www.goodreads.com/author/show/32590.Anthony_Horowitz",
         "name": "Anthony Horowitz",
         "birthDate": null,
         "deathDate": null,
@@ -3236,14 +4128,24 @@
       ]
     },
     "book": {
+      "url": "https://www.goodreads.com/book/show/103983.Skeleton_Key",
       "description": "Alex Rider has been through a lot for his fourteen years. He's been shot at by international terrorists, chased down a mountainside on a ...",
       "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1306076661i/103983.jpg",
       "authorUrl": "https://www.goodreads.com/author/show/32590.Anthony_Horowitz",
       "isbn": 9780142406144,
       "pageCount": 327,
       "title": "Skeleton Key",
-      "seriesUrl": "https://www.goodreads.com/series/41087-alex-rider",
+      "series": {
+        "url": "https://www.goodreads.com/series/41087-alex-rider",
+        "works": {
+          "primary": 12,
+          "total": 36
+        },
+        "name": "Alex Rider"
+      },
+      "positionInSeries": 3,
       "author": {
+        "url": "https://www.goodreads.com/author/show/32590.Anthony_Horowitz",
         "name": "Anthony Horowitz",
         "birthDate": null,
         "deathDate": null,
@@ -3272,14 +4174,24 @@
       ]
     },
     "book": {
+      "url": "https://www.goodreads.com/book/show/224500.Point_Blank",
       "description": "MI6 assigns Alex Rider, 14, undercover at an elite prep school for teen rebels after two fathers are assassinated. Principal Dr Grief and...",
       "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1375494413i/224500.jpg",
       "authorUrl": "https://www.goodreads.com/author/show/32590.Anthony_Horowitz",
       "isbn": 9780142406120,
       "pageCount": 274,
       "title": "Point Blanc",
-      "seriesUrl": "https://www.goodreads.com/series/41087-alex-rider",
+      "series": {
+        "url": "https://www.goodreads.com/series/41087-alex-rider",
+        "works": {
+          "primary": 12,
+          "total": 36
+        },
+        "name": "Alex Rider"
+      },
+      "positionInSeries": 2,
       "author": {
+        "url": "https://www.goodreads.com/author/show/32590.Anthony_Horowitz",
         "name": "Anthony Horowitz",
         "birthDate": null,
         "deathDate": null,
@@ -3308,14 +4220,24 @@
       ]
     },
     "book": {
+      "url": "https://www.goodreads.com/book/show/542414.Scorpia",
       "description": "Alex Rider, teen spy, has always been told he is the spitting image of the father he never knew. But when Alex learns that his father may...",
       "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388257255i/542414.jpg",
       "authorUrl": "https://www.goodreads.com/author/show/32590.Anthony_Horowitz",
       "isbn": 9780142405789,
       "pageCount": 388,
       "title": "Scorpia",
-      "seriesUrl": "https://www.goodreads.com/series/41087-alex-rider",
+      "series": {
+        "url": "https://www.goodreads.com/series/41087-alex-rider",
+        "works": {
+          "primary": 12,
+          "total": 36
+        },
+        "name": "Alex Rider"
+      },
+      "positionInSeries": 5,
       "author": {
+        "url": "https://www.goodreads.com/author/show/32590.Anthony_Horowitz",
         "name": "Anthony Horowitz",
         "birthDate": null,
         "deathDate": null,
@@ -3344,14 +4266,24 @@
       ]
     },
     "book": {
+      "url": "https://www.goodreads.com/book/show/136782.Stormbreaker",
       "description": "They told him his uncle died in an accident. He wasn't wearing his seatbelt, they said. But when fourteen-year-old Alex finds his uncle's...",
       "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1545541515i/136782.jpg",
       "authorUrl": "https://www.goodreads.com/author/show/32590.Anthony_Horowitz",
       "isbn": 9780142401651,
       "pageCount": 256,
       "title": "Stormbreaker",
-      "seriesUrl": "https://www.goodreads.com/series/41087-alex-rider",
+      "series": {
+        "url": "https://www.goodreads.com/series/41087-alex-rider",
+        "works": {
+          "primary": 12,
+          "total": 36
+        },
+        "name": "Alex Rider"
+      },
+      "positionInSeries": 1,
       "author": {
+        "url": "https://www.goodreads.com/author/show/32590.Anthony_Horowitz",
         "name": "Anthony Horowitz",
         "birthDate": null,
         "deathDate": null,
@@ -3380,14 +4312,24 @@
       ]
     },
     "book": {
+      "url": "https://www.goodreads.com/book/show/105657.Beyond_the_Deepwoods",
       "description": "Abandoned at birth in the perilous Deepwoods, Twig Verginix is brought up by a family of woodtrolls. One cold night, Twig does what no wo...",
       "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1439502746i/105657.jpg",
       "authorUrl": "https://www.goodreads.com/author/show/24830.Paul_Stewart",
       "isbn": 9780552554220,
       "pageCount": 288,
       "title": "Beyond the Deepwoods",
-      "seriesUrl": "https://www.goodreads.com/series/55386-the-edge-chronicles-chronological",
+      "series": {
+        "url": "https://www.goodreads.com/series/55386-the-edge-chronicles-chronological",
+        "works": {
+          "primary": 13,
+          "total": 23
+        },
+        "name": "The Edge Chronicles (chronological)"
+      },
+      "positionInSeries": 4,
       "author": {
+        "url": "https://www.goodreads.com/author/show/24830.Paul_Stewart",
         "name": "Paul Stewart",
         "birthDate": null,
         "deathDate": null,
@@ -3415,14 +4357,24 @@
       ]
     },
     "book": {
+      "url": "https://www.goodreads.com/book/show/1162543.Breaking_Dawn",
       "description": "\"Don't be afraid,\" I murmured. \"We belong together.\" I was abruptly overwhelmed by the truth of my own words.  This moment was so perfect...",
       "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1361039438i/1162543.jpg",
       "authorUrl": "https://www.goodreads.com/author/show/941441.Stephenie_Meyer",
       "isbn": 9780316067928,
       "pageCount": 756,
       "title": "Breaking Dawn",
-      "seriesUrl": "https://www.goodreads.com/series/45363-the-twilight-saga",
+      "series": {
+        "url": "https://www.goodreads.com/series/45363-the-twilight-saga",
+        "works": {
+          "primary": 6,
+          "total": 12
+        },
+        "name": "The Twilight Saga"
+      },
+      "positionInSeries": 4,
       "author": {
+        "url": "https://www.goodreads.com/author/show/941441.Stephenie_Meyer",
         "name": "Stephenie Meyer",
         "birthDate": "1973-12-24",
         "deathDate": null,
@@ -3450,14 +4402,24 @@
       ]
     },
     "book": {
+      "url": "https://www.goodreads.com/book/show/428263.Eclipse",
       "description": "\"BELLA?\"Edward's soft voice came from behind me. I turned to see him spring lightly up the porch steps, his hair windblown from running. ...",
       "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1361038355i/428263.jpg",
       "authorUrl": "https://www.goodreads.com/author/show/941441.Stephenie_Meyer",
       "isbn": 9780316160209,
       "pageCount": 629,
       "title": "Eclipse",
-      "seriesUrl": "https://www.goodreads.com/series/45363-the-twilight-saga",
+      "series": {
+        "url": "https://www.goodreads.com/series/45363-the-twilight-saga",
+        "works": {
+          "primary": 6,
+          "total": 12
+        },
+        "name": "The Twilight Saga"
+      },
+      "positionInSeries": 3,
       "author": {
+        "url": "https://www.goodreads.com/author/show/941441.Stephenie_Meyer",
         "name": "Stephenie Meyer",
         "birthDate": "1973-12-24",
         "deathDate": null,
@@ -3485,14 +4447,24 @@
       ]
     },
     "book": {
+      "url": "https://www.goodreads.com/book/show/2326730.New_Moon",
       "description": "For Bella Swan, there is one thing more important than life itself: Edward Cullen. But being in love with a vampire is even more dangerou...",
       "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327248369i/2326730.jpg",
       "authorUrl": "https://www.goodreads.com/author/show/941441.Stephenie_Meyer",
       "isbn": 9781904233886,
       "pageCount": 497,
       "title": "New Moon ",
-      "seriesUrl": "https://www.goodreads.com/series/45363-the-twilight-saga",
+      "series": {
+        "url": "https://www.goodreads.com/series/45363-the-twilight-saga",
+        "works": {
+          "primary": 6,
+          "total": 12
+        },
+        "name": "The Twilight Saga"
+      },
+      "positionInSeries": 2,
       "author": {
+        "url": "https://www.goodreads.com/author/show/941441.Stephenie_Meyer",
         "name": "Stephenie Meyer",
         "birthDate": "1973-12-24",
         "deathDate": null,
@@ -3520,14 +4492,24 @@
       ]
     },
     "book": {
+      "url": "https://www.goodreads.com/book/show/6140038-mechanicum",
       "description": "As the flames of treachery spread throughout the Imperium, Horus plots to subvert or destroy all those who would stand against him.  On M...",
       "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348564960i/6140038.jpg",
       "authorUrl": "https://www.goodreads.com/author/show/17729.Graham_McNeill",
       "isbn": 9781844166640,
       "pageCount": 415,
       "title": "Mechanicum",
-      "seriesUrl": "https://www.goodreads.com/series/40983-the-horus-heresy",
+      "series": {
+        "url": "https://www.goodreads.com/series/40983-the-horus-heresy",
+        "works": {
+          "primary": 54,
+          "total": 329
+        },
+        "name": "The Horus Heresy"
+      },
+      "positionInSeries": 9,
       "author": {
+        "url": "https://www.goodreads.com/author/show/17729.Graham_McNeill",
         "name": "Graham McNeill",
         "birthDate": null,
         "deathDate": null,
@@ -3553,14 +4535,24 @@
       ]
     },
     "book": {
+      "url": "https://www.goodreads.com/book/show/6465063-a-thousand-sons",
       "description": "Censured at the Council of Nikea for his flagrant use of sorcery, Magnus the Red and his Thousand Sons Legion retreat to their homeworld ...",
       "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1280757140i/6465063.jpg",
       "authorUrl": "https://www.goodreads.com/author/show/17729.Graham_McNeill",
       "isbn": 9781844168088,
       "pageCount": 558,
       "title": "A Thousand Sons",
-      "seriesUrl": "https://www.goodreads.com/series/40983-the-horus-heresy",
+      "series": {
+        "url": "https://www.goodreads.com/series/40983-the-horus-heresy",
+        "works": {
+          "primary": 54,
+          "total": 329
+        },
+        "name": "The Horus Heresy"
+      },
+      "positionInSeries": 12,
       "author": {
+        "url": "https://www.goodreads.com/author/show/17729.Graham_McNeill",
         "name": "Graham McNeill",
         "birthDate": null,
         "deathDate": null,
@@ -3586,14 +4578,24 @@
       ]
     },
     "book": {
+      "url": "https://www.goodreads.com/book/show/957931.Fulgrim",
       "description": "It is the 31st millennium, and humanity is at the peak of its powers. As the Great Crusade, led by Warmaster Horus, continues to conquer ...",
       "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1403985069i/957931.jpg",
       "authorUrl": "https://www.goodreads.com/author/show/17729.Graham_McNeill",
       "isbn": 9781844164769,
       "pageCount": 512,
       "title": "Fulgrim",
-      "seriesUrl": "https://www.goodreads.com/series/40983-the-horus-heresy",
+      "series": {
+        "url": "https://www.goodreads.com/series/40983-the-horus-heresy",
+        "works": {
+          "primary": 54,
+          "total": 329
+        },
+        "name": "The Horus Heresy"
+      },
+      "positionInSeries": 5,
       "author": {
+        "url": "https://www.goodreads.com/author/show/17729.Graham_McNeill",
         "name": "Graham McNeill",
         "birthDate": null,
         "deathDate": null,
@@ -3619,14 +4621,24 @@
       ]
     },
     "book": {
+      "url": "https://www.goodreads.com/book/show/21411985-false-gods",
       "description": "The second Horus Heresy title returns in mass market paperback formatFar from Terra, the XVIth Legion continue in the Great Crusade as th...",
       "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1405259889i/21411985.jpg",
       "authorUrl": "https://www.goodreads.com/author/show/17729.Graham_McNeill",
       "isbn": 9781849707473,
       "pageCount": 416,
       "title": "False Gods",
-      "seriesUrl": "https://www.goodreads.com/series/40983-the-horus-heresy",
+      "series": {
+        "url": "https://www.goodreads.com/series/40983-the-horus-heresy",
+        "works": {
+          "primary": 54,
+          "total": 329
+        },
+        "name": "The Horus Heresy"
+      },
+      "positionInSeries": 2,
       "author": {
+        "url": "https://www.goodreads.com/author/show/17729.Graham_McNeill",
         "name": "Graham McNeill",
         "birthDate": null,
         "deathDate": null,
@@ -3652,14 +4664,24 @@
       ]
     },
     "book": {
+      "url": "https://www.goodreads.com/book/show/6109704-prospero-burns",
       "description": "The Emperor is enraged. Primarch Magnus the Red of the Thousand Sons Legion has made a terrible mistake that endangers the very safety of...",
       "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1335316486i/6109704.jpg",
       "authorUrl": "https://www.goodreads.com/author/show/33262.Dan_Abnett",
       "isbn": 9781844167760,
       "pageCount": 444,
       "title": "Prospero Burns",
-      "seriesUrl": "https://www.goodreads.com/series/40983-the-horus-heresy",
+      "series": {
+        "url": "https://www.goodreads.com/series/40983-the-horus-heresy",
+        "works": {
+          "primary": 54,
+          "total": 329
+        },
+        "name": "The Horus Heresy"
+      },
+      "positionInSeries": 15,
       "author": {
+        "url": "https://www.goodreads.com/author/show/33262.Dan_Abnett",
         "name": "Dan Abnett",
         "birthDate": null,
         "deathDate": null,
@@ -3687,14 +4709,24 @@
       ]
     },
     "book": {
+      "url": "https://www.goodreads.com/book/show/1678745.Legion",
       "description": "A Great War is coming, and it will engulf the Imperium of Man. The Space Marines of the Alpha Legion, the last and most secretive of all ...",
       "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1280756821i/1678745.jpg",
       "authorUrl": "https://www.goodreads.com/author/show/33262.Dan_Abnett",
       "isbn": 9781844165360,
       "pageCount": 416,
       "title": "Legion",
-      "seriesUrl": "https://www.goodreads.com/series/40983-the-horus-heresy",
+      "series": {
+        "url": "https://www.goodreads.com/series/40983-the-horus-heresy",
+        "works": {
+          "primary": 54,
+          "total": 329
+        },
+        "name": "The Horus Heresy"
+      },
+      "positionInSeries": 7,
       "author": {
+        "url": "https://www.goodreads.com/author/show/33262.Dan_Abnett",
         "name": "Dan Abnett",
         "birthDate": null,
         "deathDate": null,
@@ -3722,14 +4754,24 @@
       ]
     },
     "book": {
+      "url": "https://www.goodreads.com/book/show/625603.Horus_Rising",
       "description": "After thousands of years of expansion and conquest, the imperium of man is at its height. His dream for humanity nearly accomplished, the...",
       "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1414166935i/625603.jpg",
       "authorUrl": "https://www.goodreads.com/author/show/33262.Dan_Abnett",
       "isbn": 9781844162949,
       "pageCount": 412,
       "title": "Horus Rising",
-      "seriesUrl": "https://www.goodreads.com/series/40983-the-horus-heresy",
+      "series": {
+        "url": "https://www.goodreads.com/series/40983-the-horus-heresy",
+        "works": {
+          "primary": 54,
+          "total": 329
+        },
+        "name": "The Horus Heresy"
+      },
+      "positionInSeries": 1,
       "author": {
+        "url": "https://www.goodreads.com/author/show/33262.Dan_Abnett",
         "name": "Dan Abnett",
         "birthDate": null,
         "deathDate": null,
@@ -3757,14 +4799,24 @@
       ]
     },
     "book": {
+      "url": "https://www.goodreads.com/book/show/21535271-the-slow-regard-of-silent-things",
       "description": "Deep below the University, there is a dark place. Few people know of it: a broken web of ancient passageways and abandoned rooms. A young...",
       "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1398466695i/21535271.jpg",
       "authorUrl": "https://www.goodreads.com/author/show/108424.Patrick_Rothfuss",
       "isbn": 9780756410438,
       "pageCount": 159,
       "title": "The Slow Regard of Silent Things",
-      "seriesUrl": "https://www.goodreads.com/series/45262-the-kingkiller-chronicle",
+      "series": {
+        "url": "https://www.goodreads.com/series/45262-the-kingkiller-chronicle",
+        "works": {
+          "primary": 3,
+          "total": 11
+        },
+        "name": "The Kingkiller Chronicle"
+      },
+      "positionInSeries": 2,
       "author": {
+        "url": "https://www.goodreads.com/author/show/108424.Patrick_Rothfuss",
         "name": "Patrick Rothfuss",
         "birthDate": null,
         "deathDate": null,
@@ -3792,14 +4844,24 @@
       ]
     },
     "book": {
+      "url": "https://www.goodreads.com/book/show/1215032.The_Wise_Man_s_Fear",
       "description": "“There are three things all wise men fear: the sea in storm, a night with no moon, and the anger of a gentle man.”  My name is Kvothe. I ...",
       "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1452624392i/1215032.jpg",
       "authorUrl": "https://www.goodreads.com/author/show/108424.Patrick_Rothfuss",
       "isbn": 9780756404734,
       "pageCount": 994,
       "title": "The Wise Man's Fear",
-      "seriesUrl": "https://www.goodreads.com/series/45262-the-kingkiller-chronicle",
+      "series": {
+        "url": "https://www.goodreads.com/series/45262-the-kingkiller-chronicle",
+        "works": {
+          "primary": 3,
+          "total": 11
+        },
+        "name": "The Kingkiller Chronicle"
+      },
+      "positionInSeries": 2,
       "author": {
+        "url": "https://www.goodreads.com/author/show/108424.Patrick_Rothfuss",
         "name": "Patrick Rothfuss",
         "birthDate": null,
         "deathDate": null,
@@ -3827,14 +4889,24 @@
       ]
     },
     "book": {
+      "url": "https://www.goodreads.com/book/show/186074.The_Name_of_the_Wind",
       "description": "Told in Kvothe's own voice, this is the tale of the magically gifted young man who grows to be the most notorious wizard his world has ev...",
       "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1610826947i/186074.jpg",
       "authorUrl": "https://www.goodreads.com/author/show/108424.Patrick_Rothfuss",
       "isbn": 9780756404079,
       "pageCount": 662,
       "title": "The Name of the Wind",
-      "seriesUrl": "https://www.goodreads.com/series/45262-the-kingkiller-chronicle",
+      "series": {
+        "url": "https://www.goodreads.com/series/45262-the-kingkiller-chronicle",
+        "works": {
+          "primary": 3,
+          "total": 11
+        },
+        "name": "The Kingkiller Chronicle"
+      },
+      "positionInSeries": 1,
       "author": {
+        "url": "https://www.goodreads.com/author/show/108424.Patrick_Rothfuss",
         "name": "Patrick Rothfuss",
         "birthDate": null,
         "deathDate": null,
@@ -3862,14 +4934,24 @@
       ]
     },
     "book": {
+      "url": "https://www.goodreads.com/book/show/140225.The_Voyage_of_the_Dawn_Treader",
       "description": "The Dawn Treader will take you places you never dreamed existed.   NARNIA... the world of wicked dragons and magic spells, where the very...",
       "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1343185059i/140225.jpg",
       "authorUrl": "https://www.goodreads.com/author/show/1069006.C_S_Lewis",
       "isbn": 9780061125270,
       "pageCount": 248,
       "title": "The Voyage of the Dawn Treader",
-      "seriesUrl": "https://www.goodreads.com/series/49073-the-chronicles-of-narnia-publication-order",
+      "series": {
+        "url": "https://www.goodreads.com/series/49073-the-chronicles-of-narnia-publication-order",
+        "works": {
+          "primary": 7,
+          "total": 11
+        },
+        "name": "The Chronicles of Narnia (Publication Order)"
+      },
+      "positionInSeries": 3,
       "author": {
+        "url": "https://www.goodreads.com/author/show/1069006.C_S_Lewis",
         "name": "C.S. Lewis",
         "birthDate": "1898-11-29",
         "deathDate": "1963-11-22",
@@ -3897,14 +4979,24 @@
       ]
     },
     "book": {
+      "url": "https://www.goodreads.com/book/show/41865.Twilight",
       "description": "About three things I was absolutely positive.  First, Edward was a vampire.  Second, there was a part of him—and I didn't know how domina...",
       "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1617572541i/41865.jpg",
       "authorUrl": "https://www.goodreads.com/author/show/941441.Stephenie_Meyer",
       "isbn": 9780316015844,
       "pageCount": 501,
       "title": "Twilight",
-      "seriesUrl": "https://www.goodreads.com/series/45363-the-twilight-saga",
+      "series": {
+        "url": "https://www.goodreads.com/series/45363-the-twilight-saga",
+        "works": {
+          "primary": 6,
+          "total": 12
+        },
+        "name": "The Twilight Saga"
+      },
+      "positionInSeries": 1,
       "author": {
+        "url": "https://www.goodreads.com/author/show/941441.Stephenie_Meyer",
         "name": "Stephenie Meyer",
         "birthDate": "1973-12-24",
         "deathDate": null,
@@ -3932,14 +5024,24 @@
       ]
     },
     "book": {
+      "url": "https://www.goodreads.com/book/show/34.The_Fellowship_of_the_Ring",
       "description": "Alternate Cover Edition ISBN 0618260269 (copyright page ISBN is 0618346252 - different from back cover)  One Ring to rule them all, One R...",
       "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1298411339i/34.jpg",
       "authorUrl": "https://www.goodreads.com/author/show/656983.J_R_R_Tolkien",
       "isbn": 9780618346257,
       "pageCount": 398,
       "title": "The Fellowship of the Ring",
-      "seriesUrl": "https://www.goodreads.com/series/66175-the-lord-of-the-rings",
+      "series": {
+        "url": "https://www.goodreads.com/series/66175-the-lord-of-the-rings",
+        "works": {
+          "primary": 3,
+          "total": 7
+        },
+        "name": "The Lord of the Rings"
+      },
+      "positionInSeries": 1,
       "author": {
+        "url": "https://www.goodreads.com/author/show/656983.J_R_R_Tolkien",
         "name": "J.R.R. Tolkien",
         "birthDate": "1892-01-03",
         "deathDate": "1973-09-02",
@@ -3967,14 +5069,24 @@
       ]
     },
     "book": {
+      "url": "https://www.goodreads.com/book/show/13496.A_Game_of_Thrones",
       "description": "Here is the first volume in George R. R. Martin’s magnificent cycle of novels that includes A Clash of Kings and A Storm of Swords. As a ...",
       "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1562726234i/13496.jpg",
       "authorUrl": "https://www.goodreads.com/author/show/346732.George_R_R_Martin",
       "isbn": 9780553588484,
       "pageCount": 835,
       "title": "A Game of Thrones",
-      "seriesUrl": "https://www.goodreads.com/series/43790-a-song-of-ice-and-fire",
+      "series": {
+        "url": "https://www.goodreads.com/series/43790-a-song-of-ice-and-fire",
+        "works": {
+          "primary": 7,
+          "total": 21
+        },
+        "name": "A Song of Ice and Fire"
+      },
+      "positionInSeries": 1,
       "author": {
+        "url": "https://www.goodreads.com/author/show/346732.George_R_R_Martin",
         "name": "George R.R. Martin",
         "birthDate": "1948-09-20",
         "deathDate": null,
@@ -4003,6 +5115,7 @@
       ]
     },
     "book": {
+      "url": "https://www.goodreads.com/book/show/19063.The_Book_Thief",
       "description": "Librarian's note: An alternate cover edition can be found here  It is 1939. Nazi Germany. The country is holding its breath. Death has ne...",
       "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1522157426i/19063.jpg",
       "authorUrl": "https://www.goodreads.com/author/show/11466.Markus_Zusak",
@@ -4010,6 +5123,7 @@
       "pageCount": 552,
       "title": "The Book Thief",
       "author": {
+        "url": "https://www.goodreads.com/author/show/11466.Markus_Zusak",
         "name": "Markus Zusak",
         "birthDate": "1975-06-23",
         "deathDate": null,
@@ -4019,7 +5133,8 @@
         ],
         "websiteUrl": "http://www.zusakbooks.com",
         "twitterUrl": "http://www.twitter.com/Markus_Zusak"
-      }
+      },
+      "series": null
     }
   },
   {
@@ -4037,14 +5152,24 @@
       ]
     },
     "book": {
+      "url": "https://www.goodreads.com/book/show/7996.Redwall",
       "description": "A quest to recover a legendary lost weapon by bumbling young apprentice monk, mouse Matthias.   Redwall Abbey, tranquil home to a communi...",
       "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327877368i/7996.jpg",
       "authorUrl": "https://www.goodreads.com/author/show/5329.Brian_Jacques",
       "isbn": 9781862301382,
       "pageCount": 352,
       "title": "Redwall",
-      "seriesUrl": "https://www.goodreads.com/series/40340-redwall",
+      "series": {
+        "url": "https://www.goodreads.com/series/40340-redwall",
+        "works": {
+          "primary": 26,
+          "total": 32
+        },
+        "name": "Redwall"
+      },
+      "positionInSeries": 1,
       "author": {
+        "url": "https://www.goodreads.com/author/show/5329.Brian_Jacques",
         "name": "Brian Jacques",
         "birthDate": "1939-06-15",
         "deathDate": "2011-02-05",
@@ -4072,14 +5197,24 @@
       ]
     },
     "book": {
+      "url": "https://www.goodreads.com/book/show/1223288.Soul_Eater",
       "description": "Torak has survived the summer and his heart-stopping adventure in the Seal Islands. He and Wolf are together again. But their reunion is ...",
       "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1334260982i/1223288.jpg",
       "authorUrl": "https://www.goodreads.com/author/show/119755.Michelle_Paver",
       "isbn": 9781842551141,
       "pageCount": 276,
       "title": "Soul Eater",
-      "seriesUrl": "https://www.goodreads.com/series/58521-chronicles-of-ancient-darkness",
+      "series": {
+        "url": "https://www.goodreads.com/series/58521-chronicles-of-ancient-darkness",
+        "works": {
+          "primary": 8,
+          "total": 12
+        },
+        "name": "Chronicles of Ancient Darkness"
+      },
+      "positionInSeries": 3,
       "author": {
+        "url": "https://www.goodreads.com/author/show/119755.Michelle_Paver",
         "name": "Michelle Paver",
         "birthDate": "1960-09-07",
         "deathDate": null,
@@ -4108,14 +5243,24 @@
       ]
     },
     "book": {
+      "url": "https://www.goodreads.com/book/show/1438096.Firesong",
       "description": "The Manth people are at last free to seek their promised land, led by Bowman and Kestrel's mother, a prophetess. But the journey is long ...",
       "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1183588647i/1438096.jpg",
       "authorUrl": "https://www.goodreads.com/author/show/46130.William_Nicholson",
       "isbn": 9780007179398,
       "pageCount": 341,
       "title": "Firesong ",
-      "seriesUrl": "https://www.goodreads.com/series/52487-the-wind-on-fire-trilogy",
+      "series": {
+        "url": "https://www.goodreads.com/series/52487-the-wind-on-fire-trilogy",
+        "works": {
+          "primary": 3,
+          "total": 4
+        },
+        "name": "The Wind on Fire Trilogy"
+      },
+      "positionInSeries": 3,
       "author": {
+        "url": "https://www.goodreads.com/author/show/46130.William_Nicholson",
         "name": "William Nicholson",
         "birthDate": "1948-01-12",
         "deathDate": null,
@@ -4141,14 +5286,24 @@
       ]
     },
     "book": {
+      "url": "https://www.goodreads.com/book/show/47629.Lirael",
       "description": "When the future is hidden, who holds the key to destiny?  Lirael has never felt like a true daughter of the Clayr. She doesn't even have ...",
       "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328366791i/47629.jpg",
       "authorUrl": "https://www.goodreads.com/author/show/8347.Garth_Nix",
       "isbn": 9780007137336,
       "pageCount": 527,
       "title": "Lirael",
-      "seriesUrl": "https://www.goodreads.com/series/44888-abhorsen",
+      "series": {
+        "url": "https://www.goodreads.com/series/44888-abhorsen",
+        "works": {
+          "primary": 5,
+          "total": 18
+        },
+        "name": "Abhorsen"
+      },
+      "positionInSeries": 2,
       "author": {
+        "url": "https://www.goodreads.com/author/show/8347.Garth_Nix",
         "name": "Garth Nix",
         "birthDate": null,
         "deathDate": null,
@@ -4176,14 +5331,24 @@
       ]
     },
     "book": {
+      "url": "https://www.goodreads.com/book/show/175004.Eagle_Strike",
       "description": "Sir Damian Cray is a philanthropist, peace activist, and the world's most famous pop star. But still it's not enough. He needs more if he...",
       "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1545541672i/175004.jpg",
       "authorUrl": "https://www.goodreads.com/author/show/32590.Anthony_Horowitz",
       "isbn": 9780142406137,
       "pageCount": 322,
       "title": "Eagle Strike",
-      "seriesUrl": "https://www.goodreads.com/series/41087-alex-rider",
+      "series": {
+        "url": "https://www.goodreads.com/series/41087-alex-rider",
+        "works": {
+          "primary": 12,
+          "total": 36
+        },
+        "name": "Alex Rider"
+      },
+      "positionInSeries": 4,
       "author": {
+        "url": "https://www.goodreads.com/author/show/32590.Anthony_Horowitz",
         "name": "Anthony Horowitz",
         "birthDate": null,
         "deathDate": null,
@@ -4212,14 +5377,24 @@
       ]
     },
     "book": {
+      "url": "https://www.goodreads.com/book/show/623400.Artemis_Fowl_and_the_Opal_Deception",
       "description": "Evil pixie, Opal Koboi, is back and she's more dangerous than ever. This time she doesn't just want power over the fairy People - this ti...",
       "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327949478i/623400.jpg",
       "authorUrl": "https://www.goodreads.com/author/show/10896.Eoin_Colfer",
       "isbn": 9780141315492,
       "pageCount": 343,
       "title": "The Opal Deception",
-      "seriesUrl": "https://www.goodreads.com/series/42742-artemis-fowl",
+      "series": {
+        "url": "https://www.goodreads.com/series/42742-artemis-fowl",
+        "works": {
+          "primary": 8,
+          "total": 11
+        },
+        "name": "Artemis Fowl"
+      },
+      "positionInSeries": 4,
       "author": {
+        "url": "https://www.goodreads.com/author/show/10896.Eoin_Colfer",
         "name": "Eoin Colfer",
         "birthDate": "1965-05-14",
         "deathDate": null,
@@ -4248,14 +5423,24 @@
       ]
     },
     "book": {
+      "url": "https://www.goodreads.com/book/show/18122.The_Amber_Spyglass",
       "description": "Will is the bearer of the knife. Now, accompanied by angels, his task is to deliver that powerful, dangerous weapon to Lord Asriel - by t...",
       "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1329189152i/18122.jpg",
       "authorUrl": "https://www.goodreads.com/author/show/3618.Philip_Pullman",
       "isbn": 9780440238157,
       "pageCount": 467,
       "title": "The Amber Spyglass",
-      "seriesUrl": "https://www.goodreads.com/series/44427-his-dark-materials",
+      "series": {
+        "url": "https://www.goodreads.com/series/44427-his-dark-materials",
+        "works": {
+          "primary": 3,
+          "total": 8
+        },
+        "name": "His Dark Materials"
+      },
+      "positionInSeries": 3,
       "author": {
+        "url": "https://www.goodreads.com/author/show/3618.Philip_Pullman",
         "name": "Philip Pullman",
         "birthDate": "1946-10-19",
         "deathDate": null,
@@ -4278,14 +5463,24 @@
       ]
     },
     "book": {
+      "url": "https://www.goodreads.com/book/show/45978.Eldest",
       "description": "Darkness falls…despair abounds…evil reigns…Eragon and his dragon, Saphira, have just saved the rebel state from destruction by the mighty...",
       "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1387119654i/45978.jpg",
       "authorUrl": "https://www.goodreads.com/author/show/8349.Christopher_Paolini",
       "isbn": 9780375840401,
       "pageCount": 704,
       "title": "Eldest",
-      "seriesUrl": "https://www.goodreads.com/series/44866-the-inheritance-cycle",
+      "series": {
+        "url": "https://www.goodreads.com/series/44866-the-inheritance-cycle",
+        "works": {
+          "primary": 4,
+          "total": 33
+        },
+        "name": "The Inheritance Cycle"
+      },
+      "positionInSeries": 2,
       "author": {
+        "url": "https://www.goodreads.com/author/show/8349.Christopher_Paolini",
         "name": "Christopher Paolini",
         "birthDate": "1983-11-17",
         "deathDate": null,
@@ -4314,14 +5509,24 @@
       ]
     },
     "book": {
+      "url": "https://www.goodreads.com/book/show/15241.The_Two_Towers",
       "description": "The Fellowship was scattered. Some were bracing hopelessly for war against the ancient evil of Sauron. Some were contending with the trea...",
       "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1298415523i/15241.jpg",
       "authorUrl": "https://www.goodreads.com/author/show/656983.J_R_R_Tolkien",
       "isbn": 9780618346264,
       "pageCount": 322,
       "title": "The Two Towers",
-      "seriesUrl": "https://www.goodreads.com/series/66175-the-lord-of-the-rings",
+      "series": {
+        "url": "https://www.goodreads.com/series/66175-the-lord-of-the-rings",
+        "works": {
+          "primary": 3,
+          "total": 7
+        },
+        "name": "The Lord of the Rings"
+      },
+      "positionInSeries": 2,
       "author": {
+        "url": "https://www.goodreads.com/author/show/656983.J_R_R_Tolkien",
         "name": "J.R.R. Tolkien",
         "birthDate": "1892-01-03",
         "deathDate": "1973-09-02",
@@ -4349,14 +5554,24 @@
       ]
     },
     "book": {
+      "url": "https://www.goodreads.com/book/show/1222808.The_Edge_Chronicles_7",
       "description": "Rook Barkwater lives in the network of sewer-chambers beneath Undertown, the bustling main city of the Edgeworld. He dreams of becoming a...",
       "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1344966047i/1222808.jpg",
       "authorUrl": "https://www.goodreads.com/author/show/24830.Paul_Stewart",
       "isbn": 9780385750790,
       "pageCount": 384,
       "title": "The Last of the Sky Pirates",
-      "seriesUrl": "https://www.goodreads.com/series/55393-the-edge-chronicles-rook-trilogy",
+      "series": {
+        "url": "https://www.goodreads.com/series/55393-the-edge-chronicles-rook-trilogy",
+        "works": {
+          "primary": 3,
+          "total": 4
+        },
+        "name": "The Edge Chronicles: Rook Trilogy"
+      },
+      "positionInSeries": 1,
       "author": {
+        "url": "https://www.goodreads.com/author/show/24830.Paul_Stewart",
         "name": "Paul Stewart",
         "birthDate": null,
         "deathDate": null,
@@ -4384,6 +5599,7 @@
       ]
     },
     "book": {
+      "url": "https://www.goodreads.com/book/show/45432.The_Supernaturalist",
       "description": "In the future, in a place called Satelite City, fourteen-year-old Cosmo Hill enters the world, unwanted by his parents. He's sent to the ...",
       "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1233460677i/45432.jpg",
       "authorUrl": "https://www.goodreads.com/author/show/10896.Eoin_Colfer",
@@ -4391,6 +5607,7 @@
       "pageCount": 267,
       "title": "The Supernaturalist",
       "author": {
+        "url": "https://www.goodreads.com/author/show/10896.Eoin_Colfer",
         "name": "Eoin Colfer",
         "birthDate": "1965-05-14",
         "deathDate": null,
@@ -4401,7 +5618,8 @@
         ],
         "websiteUrl": "http://eoincolfer.com/",
         "twitterUrl": "http://www.twitter.com/eoincolfer"
-      }
+      },
+      "series": null
     }
   },
   {
@@ -4419,14 +5637,24 @@
       ]
     },
     "book": {
+      "url": "https://www.goodreads.com/book/show/47618.Sir_Thursday",
       "description": "The stellar fourth book in Garth Nix's masterpiece series... now in paperback!  On the fourth day there was war... Following their advent...",
       "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1304528609i/47618.jpg",
       "authorUrl": "https://www.goodreads.com/author/show/8347.Garth_Nix",
       "isbn": 9780439436571,
       "pageCount": 344,
       "title": "Sir Thursday",
-      "seriesUrl": "https://www.goodreads.com/series/42967-the-keys-to-the-kingdom",
+      "series": {
+        "url": "https://www.goodreads.com/series/42967-the-keys-to-the-kingdom",
+        "works": {
+          "primary": 7,
+          "total": 9
+        },
+        "name": "The Keys to the Kingdom"
+      },
+      "positionInSeries": 4,
       "author": {
+        "url": "https://www.goodreads.com/author/show/8347.Garth_Nix",
         "name": "Garth Nix",
         "birthDate": null,
         "deathDate": null,
@@ -4454,14 +5682,24 @@
       ]
     },
     "book": {
+      "url": "https://www.goodreads.com/book/show/815645.Artemis_Fowl_and_the_Lost_Colony",
       "description": "Ten millennia ago, the fairy people were defeated in a great battle with mankind, forcing them to move underground. Only the 8th family o...",
       "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347418748i/815645.jpg",
       "authorUrl": "https://www.goodreads.com/author/show/10896.Eoin_Colfer",
       "isbn": 9780141320793,
       "pageCount": 400,
       "title": "The Lost Colony",
-      "seriesUrl": "https://www.goodreads.com/series/42742-artemis-fowl",
+      "series": {
+        "url": "https://www.goodreads.com/series/42742-artemis-fowl",
+        "works": {
+          "primary": 8,
+          "total": 11
+        },
+        "name": "Artemis Fowl"
+      },
+      "positionInSeries": 5,
       "author": {
+        "url": "https://www.goodreads.com/author/show/10896.Eoin_Colfer",
         "name": "Eoin Colfer",
         "birthDate": "1965-05-14",
         "deathDate": null,
@@ -4490,14 +5728,24 @@
       ]
     },
     "book": {
+      "url": "https://www.goodreads.com/book/show/13139.School_s_Out_Forever",
       "description": "In this eagerly awaited follow-up, brave bird-kid Max and her flock are discovered by an FBI agent and forced to go to \"school.\" There is...",
       "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1346079917i/13139.jpg",
       "authorUrl": "https://www.goodreads.com/author/show/3780.James_Patterson",
       "isbn": 9780316155595,
       "pageCount": 409,
       "title": "School's Out Forever",
-      "seriesUrl": "https://www.goodreads.com/series/43579-maximum-ride",
+      "series": {
+        "url": "https://www.goodreads.com/series/43579-maximum-ride",
+        "works": {
+          "primary": 10,
+          "total": 14
+        },
+        "name": "Maximum Ride"
+      },
+      "positionInSeries": 2,
       "author": {
+        "url": "https://www.goodreads.com/author/show/3780.James_Patterson",
         "name": "James Patterson",
         "birthDate": null,
         "deathDate": null,
@@ -4526,14 +5774,24 @@
       ]
     },
     "book": {
+      "url": "https://www.goodreads.com/book/show/561456.The_Titan_s_Curse",
       "description": "It's not everyday you find yourself in combat with a half-lion, half-human.  But when you're the son of a Greek god, it happens. And now ...",
       "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1361038385i/561456.jpg",
       "authorUrl": "https://www.goodreads.com/author/show/15872.Rick_Riordan",
       "isbn": 9780141382890,
       "pageCount": 320,
       "title": "The Titan's Curse",
-      "seriesUrl": "https://www.goodreads.com/series/40736-percy-jackson-and-the-olympians",
+      "series": {
+        "url": "https://www.goodreads.com/series/40736-percy-jackson-and-the-olympians",
+        "works": {
+          "primary": 5,
+          "total": 20
+        },
+        "name": "Percy Jackson and the Olympians"
+      },
+      "positionInSeries": 3,
       "author": {
+        "url": "https://www.goodreads.com/author/show/15872.Rick_Riordan",
         "name": "Rick Riordan",
         "birthDate": null,
         "deathDate": null,
@@ -4561,14 +5819,24 @@
       ]
     },
     "book": {
+      "url": "https://www.goodreads.com/book/show/49852.Harry_Potter_and_the_Half_Blood_Prince",
       "description": "The war against Voldemort is not going well: even Muggle governments are noticing. Ron scans the obituary pages of The Daily Prophet look...",
       "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1567294600i/49852.jpg",
       "authorUrl": "https://www.goodreads.com/author/show/1077326.J_K_Rowling",
       "isbn": 9780439784542,
       "pageCount": 652,
       "title": "Harry Potter and the Half-Blood Prince",
-      "seriesUrl": "https://www.goodreads.com/series/45175-harry-potter",
+      "series": {
+        "url": "https://www.goodreads.com/series/45175-harry-potter",
+        "works": {
+          "primary": 7,
+          "total": 16
+        },
+        "name": "Harry Potter"
+      },
+      "positionInSeries": 6,
       "author": {
+        "url": "https://www.goodreads.com/author/show/1077326.J_K_Rowling",
         "name": "J.K. Rowling",
         "birthDate": "1965-07-31",
         "deathDate": null,
@@ -4597,14 +5865,24 @@
       ]
     },
     "book": {
+      "url": "https://www.goodreads.com/book/show/2767052-the-hunger-games",
       "description": "Could you survive on your own in the wild, with every one out to make sure you don't live to see the morning?  In the ruins of a place on...",
       "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1586722975i/2767052.jpg",
       "authorUrl": "https://www.goodreads.com/author/show/153394.Suzanne_Collins",
       "isbn": 9780439023481,
       "pageCount": 374,
       "title": "The Hunger Games",
-      "seriesUrl": "https://www.goodreads.com/series/73758-the-hunger-games",
+      "series": {
+        "url": "https://www.goodreads.com/series/73758-the-hunger-games",
+        "works": {
+          "primary": 3,
+          "total": 6
+        },
+        "name": "The Hunger Games"
+      },
+      "positionInSeries": 1,
       "author": {
+        "url": "https://www.goodreads.com/author/show/153394.Suzanne_Collins",
         "name": "Suzanne Collins",
         "birthDate": "1962-08-11",
         "deathDate": null,

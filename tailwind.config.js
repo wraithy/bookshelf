@@ -6,11 +6,13 @@ module.exports = {
   theme: {
     extend: {},
     colors: {
-      base: colors.coolGray[200],
-      baseHighlight: colors.coolGray[300],
+      base: {
+        regular: colors.coolGray[200],
+        highlight: colors.coolGray[300],
+      },
       typography: {
         main: colors.coolGray[900],
-        secondary: colors.coolGray[400]
+        secondary: colors.coolGray[500]
       }
     }
   },
