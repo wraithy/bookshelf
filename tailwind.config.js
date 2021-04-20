@@ -7,8 +7,10 @@ module.exports = {
     extend: {},
     colors: {
       base: {
-        regular: colors.coolGray[200],
-        highlight: colors.coolGray[300],
+        '1': colors.coolGray[200],
+        '2': colors.coolGray[300],
+        '3': colors.coolGray[400],
+        '4': colors.coolGray[500],
       },
       typography: {
         main: colors.coolGray[900],

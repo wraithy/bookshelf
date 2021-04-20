@@ -5,7 +5,7 @@ import { truncate } from '../util'
 export default function BookTile({ book }: {book: Book}) {
   return (
     <a href={book.url} target="_blank">
-      <article className="rounded p-2 flex w-72 h-32 bg-base-highlight">
+      <article className="rounded p-2 flex w-72 h-32 bg-base-2">
         <img className="rounded shadow mr-4" src={book.imageUrl}></img>
         <div className="flex flex-col">
           <header className="font-bold text-lg overflow-ellipsis text-typography-main">
