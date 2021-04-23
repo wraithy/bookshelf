@@ -1,5 +1,4 @@
 import { Extract } from 'goodreads-export/lib/types'
-import { truncate } from '../util'
 import ProgressBar from 'components/ProgressBar'
 
 
@@ -11,7 +10,7 @@ export default function BookHero({ extract }: {extract: Extract}) {
       <img className="rounded shadow mr-6" src={book.imageUrl}></img>
       <div className="flex flex-col">
         <header className="font-bold text-6xl overflow-ellipsis text-typography-main">
-          <a href={book.url} target="_blank">{truncate(book.title, 50)}</a>
+          <a href={book.url} target="_blank">{book.title}</a>
         </header>
         <p className="text-4xl mt-4">
           <span className="text-typography-secondary">by </span>
@@ -26,7 +25,7 @@ export default function BookHero({ extract }: {extract: Extract}) {
           : undefined
         }
         <p className="text-xl m-auto">
-          {truncate(book.description, 140)}
+          {book.description}
         </p>
         <ProgressBar percent={progressDesc[0].percent}/>
       </div>

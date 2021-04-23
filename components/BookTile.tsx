@@ -1,6 +1,4 @@
 import { Book } from 'goodreads-export/lib/types'
-import { truncate } from '../util'
-
 
 export default function BookTile({ book }: {book: Book}) {
   return (
@@ -8,8 +6,8 @@ export default function BookTile({ book }: {book: Book}) {
       <article className="rounded p-2 flex w-72 h-32 bg-base-2">
         <img className="rounded shadow mr-4" src={book.imageUrl}></img>
         <div className="flex flex-col">
-          <header className="font-bold text-lg overflow-ellipsis text-typography-main">
-            {truncate(book.title, 50)}
+          <header className="font-bold text-typography-main text-lg overflow-scroll">
+            {book.title}
           </header>
           <p>
             <span className="text-typography-secondary">by </span>
