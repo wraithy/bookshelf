@@ -2,31 +2,33 @@ import { Extract } from 'goodreads-export/lib/types'
 import ProgressBar from 'components/ProgressBar'
 
 
-export default function BookHero({ extract }: {extract: Extract}) {
+export default function BookHero({ extract, className }: {extract: Extract, className?: string}) {
   const book = extract.book
   const progressDesc = extract.timeline.progress.sort((a, b) => a.date < b.date ? 1 : -1)
   return (
-    <article className="rounded p-6 flex w-full h-full bg-base-2">
-      <img className="rounded shadow mr-6" src={book.imageUrl}></img>
-      <div className="flex flex-col">
-        <header className="font-bold text-6xl overflow-ellipsis text-typography-main">
-          <a href={book.url} target="_blank">{book.title}</a>
-        </header>
-        <p className="text-4xl mt-4">
-          <span className="text-typography-secondary">by </span>
-          <span className="text-typography-main">{book.author.name}</span>
-        </p>
-        {book.series
-          ? (
-            <p className="text-3xl mt-4">
-              <span className="text-typography-secondary">({book.series.name} #{book.positionInSeries})</span>
-            </p>
-          )
-          : undefined
-        }
-        <p className="text-xl m-auto">
-          {book.description}
-        </p>
+    <article className={'rounded p-6 flex w-full min-w-min h-full bg-base-2 ' + className}>
+      <img className="rounded shadow mr-6 flex-shrink-0	" src={book.imageUrl}></img>
+      <div className="flex flex-col min-w-min">
+        <div className="overflow-scroll flex flex-col flex-grow min-w-min">
+          <header className="font-bold text-6xl overflow-ellipsis text-typography-main">
+            <a href={book.url} target="_blank" className="min-w-min">{book.title}</a>
+          </header>
+          <p className="text-4xl mt-4">
+            <span className="text-typography-secondary">by </span>
+            <span className="text-typography-main">{book.author.name}</span>
+          </p>
+          {book.series
+            ? (
+              <p className="text-3xl mt-4">
+                <span className="text-typography-secondary">({book.series.name} #{book.positionInSeries})</span>
+              </p>
+            )
+            : undefined
+          }
+          <p className="text-xl m-auto py-4">
+            {book.description}
+          </p>
+        </div>
         <ProgressBar percent={progressDesc[0].percent}/>
       </div>
     </article>
