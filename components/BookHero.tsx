@@ -29,7 +29,7 @@ export default function BookHero({ extract, className }: {extract: Extract, clas
             {book.description}
           </p>
         </div>
-        <ProgressBar percent={progressDesc[0].percent}/>
+        <ProgressBar className="mt-2" percent={progressDesc[0].percent}/>
       </div>
     </article>
   )
