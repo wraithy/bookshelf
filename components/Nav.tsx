@@ -15,15 +15,17 @@ const NavItem = (
   }
 
   return (
-    <div className="mb-16 w-min">
-      <Link href={href}>
-        <a className={anchorClass}>{children}</a>
-      </Link>
-      {active
-        ? <hr className="mt-4 border-t-2" />
-        : undefined
-      }
-    </div>
+    <Link href={href}>
+      <a className={anchorClass}>
+        <div className="mb-16 w-min h-32">
+          {children}
+          {active
+            ? <hr className="mt-4 border-t-2" />
+            : undefined
+          }
+        </div>
+      </a>
+    </Link>
   )
 }
 
