@@ -11,14 +11,15 @@ module.exports = {
     },
     colors: {
       base: {
-        '1': colors.coolGray[200],
-        '2': colors.coolGray[300],
-        '3': colors.coolGray[400],
-        '4': colors.coolGray[500],
+        '1': '#E5E5E5',
+        '2': '#C4C4C4',
+        '3': '#A3A3A3',
+        '4': '#828282',
       },
       typography: {
-        main: colors.coolGray[900],
-        secondary: colors.coolGray[500]
+        main: colors.black,
+        secondary: '#737373',
+        dim: '#4A4A4A'
       }
     }
   },

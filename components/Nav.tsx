@@ -7,8 +7,8 @@ const NavItem = (
   const router = useRouter()
   const active = router.pathname === href
   let anchorClass = active
-    ? 'text-4xl bold'
-    : 'text-xl'
+    ? 'text-2xl font-bold'
+    : 'text-lg'
 
   if (!active || !wrapWhenActive) {
     anchorClass += ' whitespace-nowrap'
@@ -16,8 +16,8 @@ const NavItem = (
 
   return (
     <Link href={href}>
-      <a className={anchorClass}>
-        <div className="mb-16 w-min h-32">
+      <a className={'h-32 flex items-center ' + anchorClass}>
+        <div className="w-min my-auto">
           {children}
           {active
             ? <hr className="mt-4 border-t-2" />
@@ -31,8 +31,8 @@ const NavItem = (
 
 export default function Nav({ className = '' }: {className: string}) {
   return (
-    <nav className={'flex flex-col p-4 ' + className}>
-      <NavItem wrapWhenActive href="/">Currently reading</NavItem>
+    <nav className={'flex flex-col px-4 ' + className}>
+      <NavItem href="/">Currently reading</NavItem>
       <NavItem href="/books">All books</NavItem>
     </nav>
   )

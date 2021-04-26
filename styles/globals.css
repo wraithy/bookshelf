@@ -27,4 +27,8 @@
   .filter-grayscale {
     filter: grayscale(100%);
   }
+
+  .card {
+    @apply bg-base-2 rounded border border-base-3 shadow
+  }
 }
