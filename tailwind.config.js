@@ -5,8 +5,9 @@ module.exports = {
   darkMode: false, // or 'media' or 'class'
   theme: {
     extend: {
-      fontFamily: {
-        'sans': ['Roboto', 'sans-serif']
+      fontFamily: { 'sans': ['Roboto', 'sans-serif'] },
+      gridTemplateColumns: {
+        'home': 'repeat(5, minmax(140px, 1fr))',
       }
     },
     colors: {

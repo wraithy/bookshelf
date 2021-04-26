@@ -7,7 +7,7 @@ export default function BookHero({ extract, className }: {extract: Extract, clas
   const progressDesc = extract.timeline.progress.sort((a, b) => a.date < b.date ? 1 : -1)
   return (
     <article className={'card p-14 flex w-full min-w-min h-full ' + className}>
-      <img className="rounded shadow mr-14 flex-shrink-0	" src={book.imageUrl}></img>
+      <img className="rounded shadow mr-14 flex-shrink-0" src={book.imageUrl}></img>
       <div className="flex flex-col min-w-min">
         <div className="overflow-scroll flex flex-col flex-grow min-w-min">
           <header className="font-bold text-6xl overflow-ellipsis text-typography-main">
