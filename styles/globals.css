@@ -7,19 +7,19 @@
     font-family: 'Roboto';
     font-weight: 100;
     font-display: swap;
-    src: local('Roboto'), url(/fonts/Roboto/Roboto-Light.ttf) format('truetype');
+    src: local('Roboto'), url(/bookshelf/fonts/Roboto/Roboto-Light.ttf) format('truetype');
   }
   @font-face {
     font-family: 'Roboto';
     font-weight: 400;
     font-display: swap;
-    src: local('Roboto'), url(/fonts/Roboto/Roboto-Regular.ttf) format('truetype');
+    src: local('Roboto'), url(/bookshelf/fonts/Roboto/Roboto-Regular.ttf) format('truetype');
   }
   @font-face {
     font-family: 'Roboto';
     font-weight: 700;
     font-display: swap;
-    src: local('Roboto'), url(/fonts/Roboto/Roboto-Bold.ttf) format('truetype');
+    src: local('Roboto'), url(/bookshelf/fonts/Roboto/Roboto-Bold.ttf) format('truetype');
   }
 }
 
