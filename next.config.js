@@ -1,3 +1,4 @@
 module.exports = {
-  basePath: '/bookshelf'
+  basePath: '/bookshelf',
+  assetPrefix: '/bookshelf/',
 }
