@@ -13,13 +13,13 @@ export default function BookTile(
             {book.title}
           </header>
           <p>
-            <span className="text-typography-secondary">by </span>
+            <span className="text-typography-secondary font-thin">by </span>
             <span className={primaryText}>{book.author.name}</span>
           </p>
           {book.series
             ? (
               <p className="text-sm leading-tight mt-auto">
-                <span className="text-typography-secondary">{book.series.name} #{book.positionInSeries}</span>
+                <span className="text-typography-secondary font-thin">{book.series.name} #{book.positionInSeries}</span>
               </p>
             )
             : undefined

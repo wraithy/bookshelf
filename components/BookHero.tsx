@@ -14,13 +14,15 @@ export default function BookHero({ extract, className }: {extract: Extract, clas
             <a href={book.url} target="_blank" className="min-w-min">{book.title}</a>
           </header>
           <p className="text-4xl mt-4">
-            <span className="text-typography-secondary">by </span>
+            <span className="text-typography-secondary font-thin">by </span>
             <span className="text-typography-main">{book.author.name}</span>
           </p>
           {book.series
             ? (
               <p className="text-3xl mt-4">
-                <span className="text-typography-secondary">({book.series.name} #{book.positionInSeries})</span>
+                <span className="text-typography-secondary font-thin">
+                  ({book.series.name} #{book.positionInSeries})
+                </span>
               </p>
             )
             : undefined

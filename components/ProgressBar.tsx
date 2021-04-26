@@ -4,7 +4,7 @@ export default function ProgressBar({ percent, className }: {percent: number, cl
       <div className="h-full border border-base-4 rounded flex-grow">
         <div className="h-full bg-base-3" style={{ width: `${percent}%` }}></div>
       </div>
-      <span className="ml-2 text-typography-secondary">
+      <span className="ml-2 text-typography-secondary font-thin">
         {percent}%
       </span>
     </section>
