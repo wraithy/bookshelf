@@ -1,0 +1,28 @@
+name: Deploy
+on:
+  push:
+    branches:
+      - master
+jobs:
+  deploy:
+    name: Deploy
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+        with:
+          fetch-depth: 0
+      - name: Setup Node.js
+        uses: actions/setup-node@v1
+        with:
+          node-version: 14
+      - name: Install dependencies
+        run: npm ci
+      - name: Build
+        run: npm run build-static
+      - name: Deploy
+        uses: crazy-max/ghaction-github-pages@v2
+        with:
+          build_dir: out
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
