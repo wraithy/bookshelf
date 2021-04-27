@@ -6,8 +6,12 @@ export default function BookTile(
   const primaryText = grayscale ? 'text-typography-dim' : 'text-typography-main'
   return (
     <article className={'card ' + className}>
-      <a href={book.url} target="_blank" className="p-2 flex h-full w-full">
-        <img className={'rounded shadow mr-4 ' + (grayscale ? 'filter-grayscale' : '')} src={book.imageUrl}></img>
+      <a href={book.url} target="_blank" rel="noreferrer" className="p-2 flex h-full w-full">
+        <img
+          className={'rounded shadow mr-4 ' + (grayscale ? 'filter-grayscale' : '')}
+          src={book.imageUrl}
+          alt={book.title}
+        ></img>
         <div className="flex flex-col">
           <header className={`font-bold text-lg overflow-scroll ${primaryText}`}>
             {book.title}
