@@ -11,7 +11,7 @@ class MyDocument extends Document {
       <Html lang="en">
         <Head>
           <link rel="shortcut icon" href="/bookshelf/favicon.ico" />
-          <link rel="apple-touch-icon" href="/example.png" />
+          <link rel="apple-touch-icon" href="/bookshelf/apple-touch-icon.png" />
 
           <meta name="description" content="An alternate UI for goodreads data" />
           <meta name="theme-color" content="#E5E5E5" />

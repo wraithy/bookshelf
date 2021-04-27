@@ -17,13 +17,13 @@ const NavItem = (
   return (
     <Link href={href}>
       <a className={'h-32 flex items-center ' + anchorClass}>
-        <div className="w-min my-auto">
+        <h2 className="w-min my-auto">
           {children}
           {active
             ? <hr className="mt-4 border-t-2" />
             : undefined
           }
-        </div>
+        </h2>
       </a>
     </Link>
   )

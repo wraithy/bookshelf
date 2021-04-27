@@ -13,9 +13,9 @@ export default function BookTile(
           alt={book.title}
         ></img>
         <div className="flex flex-col">
-          <header className={`font-bold text-lg overflow-scroll ${primaryText}`}>
+          <h3 className={`font-bold text-lg overflow-scroll ${primaryText}`}>
             {book.title}
-          </header>
+          </h3>
           <p>
             <span className="text-typography-secondary font-thin">by </span>
             <span className={primaryText}>{book.author.name}</span>
