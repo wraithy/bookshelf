@@ -13,7 +13,7 @@ export default function BookTile(
           alt={book.title}
         ></img>
         <div className="flex flex-col">
-          <h2 className={`font-bold text-lg overflow-scroll ${primaryText}`}>
+          <h2 className={`font-bold text-lg overflow-scroll no-scrollbar ${primaryText}`}>
             {book.title}
           </h2>
           <p>
