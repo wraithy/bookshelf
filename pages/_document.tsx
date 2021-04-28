@@ -8,15 +8,15 @@ class MyDocument extends Document {
 
   render() {
     return (
-      <Html lang="en">
+      <Html lang='en'>
         <Head>
-          <link rel="shortcut icon" href="/bookshelf/favicon.ico" />
-          <link rel="apple-touch-icon" href="/bookshelf/apple-touch-icon.png" />
+          <link rel='shortcut icon' href='/bookshelf/favicon.ico' />
+          <link rel='apple-touch-icon' href='/bookshelf/apple-touch-icon.png' />
 
-          <meta name="description" content="An alternate UI for goodreads data" />
-          <meta name="theme-color" content="#E5E5E5" />
+          <meta name='description' content='An alternate UI for goodreads data' />
+          <meta name='theme-color' content='#E5E5E5' />
         </Head>
-        <body className="bg-base-1">
+        <body className='bg-base-1'>
           <Main />
           <NextScript />
         </body>
