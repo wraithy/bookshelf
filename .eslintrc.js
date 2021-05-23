@@ -10,5 +10,5 @@ module.exports = {
     'quotes': ['error', 'single'],
     'object-curly-spacing': ['error', 'always']
   },
-  overrides: [{ files: ['**/*.ts'] }]
+  overrides: [{ files: ['**/*.ts', '**/*.test.ts'] }]
 }
