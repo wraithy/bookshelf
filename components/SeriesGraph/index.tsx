@@ -1,11 +1,13 @@
-import { AreaChart, XAxis, YAxis, Tooltip, Area, ResponsiveContainer } from 'recharts'
+import { useState } from 'react'
+import { AreaChart, XAxis, Tooltip, Area, ResponsiveContainer } from 'recharts'
 import { DefaultTooltipContent } from 'recharts/lib/component/DefaultTooltipContent'
 import { reviews, accentColors } from '../../constants'
-import { makeDataPoints } from './util'
+import { DataPoint, makeDataPoints } from './util'
+import { seriesId } from '../../util'
+import styles from './styles.module.css'
 
-const dataPoints = makeDataPoints(reviews.finishedReading)
+const allDataPoints = makeDataPoints(reviews.finishedReading)
 const allSeriesNames = [...new Set(reviews.finishedReading.map((r) => r.book.series?.name))]
-const id = (seriesName: string) => (seriesName ? seriesName.replace(/\ /g, '-') : '')
 
 const colorWheel = accentColors(400)
 const getAreaColor = (i: number) => colorWheel[i % colorWheel.length]
@@ -18,42 +20,82 @@ const ExcludeZeroesTooltip = (props: any) => {
   return <DefaultTooltipContent {...newProps} />
 }
 
+const periods = {
+  '1Y': 1,
+  '5Y': 5,
+  '10Y': 10,
+  ALL: null,
+}
+
+function clipToPeriod(points: DataPoint[], years: number | null): DataPoint[] {
+  if (years === null) {
+    return points
+  }
+  const cutoff = points[points.length - 1].date.minus({ years })
+  let clipped = points.filter((p) => p.date >= cutoff)
+  // we want the first point to be one that actually has values
+  const hasValues = (p: DataPoint) => Object.keys(p).length > ['date', 'yearMonth'].length
+  while (clipped.length && !hasValues(clipped[0])) {
+    clipped.shift()
+  }
+  return clipped
+}
+
+function scrollToSeries(seriesName: string) {
+  const elem = document.getElementById(seriesId(seriesName))
+  elem.scrollIntoView({ behavior: 'smooth' })
+}
+
 export default function SeriesGraph() {
+  const [selectedPeriod, setPeriod] = useState(periods['5Y'])
+  const points = clipToPeriod(allDataPoints, selectedPeriod)
+
   return (
-    <>
-      <h1 className='mb-4 text-2xl'>Timeline</h1>
-      <article className='card h-36 p-2 mb-16'>
-        <ResponsiveContainer>
-          <AreaChart width={730} height={250} data={dataPoints} margin={{ top: 10, right: 30, left: 0, bottom: 0 }}>
-            <defs>
-              {allSeriesNames.map((seriesName, i) => (
-                <linearGradient id={id(seriesName)} key={i} x1='0' y1='0' x2='0' y2='1'>
-                  <stop offset='5%' stopColor={getAreaColor(i)} stopOpacity={0.8} />
-                  <stop offset='95%' stopColor={getAreaColor(i)} stopOpacity={0} />
-                </linearGradient>
-              ))}
-            </defs>
-            <XAxis
-              dataKey='yearMonth'
-              allowDataOverflow={false}
-              minTickGap={100}
-              tickFormatter={(value: string) => value.split('-')[0]}
-            />
-            <Tooltip content={ExcludeZeroesTooltip} />
+    <article className='h-48 mb-16'>
+      <ResponsiveContainer>
+        <AreaChart data={points} margin={{ top: 0, right: 0, bottom: 0, left: 0 }}>
+          <defs>
             {allSeriesNames.map((seriesName, i) => (
-              <Area
-                key={i}
-                type='monotone'
-                connectNulls
-                dataKey={seriesName}
-                stroke={getAreaColor(i)}
-                fillOpacity={1}
-                fill={`url(#${id(seriesName)})`}
-              />
+              <linearGradient id={`${seriesId(seriesName)}-gradient`} key={i} x1='0' y1='0' x2='0' y2='1'>
+                <stop offset='10%' stopColor={getAreaColor(i)} stopOpacity={1} />
+                <stop offset='100%' stopColor={getAreaColor(i)} stopOpacity={0} />
+              </linearGradient>
             ))}
-          </AreaChart>
-        </ResponsiveContainer>
-      </article>
-    </>
+          </defs>
+          <XAxis
+            dataKey='yearMonth'
+            axisLine={false}
+            tickLine={false}
+            allowDataOverflow={false}
+            minTickGap={100}
+            tickFormatter={(value: string) => value.split('-')[0]}
+          />
+          <Tooltip content={ExcludeZeroesTooltip} wrapperClassName='card' />
+          {allSeriesNames.map((seriesName, i) => (
+            <Area
+              key={i}
+              type='monotone'
+              dataKey={seriesName}
+              stroke={getAreaColor(i)}
+              fillOpacity={1}
+              fill={`url(#${seriesId(seriesName)}-gradient)`}
+              isAnimationActive={false}
+              onClick={() => scrollToSeries(seriesName)}
+            />
+          ))}
+        </AreaChart>
+      </ResponsiveContainer>
+      <div className={styles['period-select']}>
+        {Object.entries(periods).map(([key, value]) => (
+          <button
+            key={key}
+            onClick={() => setPeriod(value)}
+            className={value === selectedPeriod ? styles.selected : ''}
+          >
+            {key}
+          </button>
+        ))}
+      </div>
+    </article>
   )
 }

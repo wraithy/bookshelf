@@ -1,12 +1,13 @@
 import { Extract } from 'goodreads-export/lib/types'
 import ExternalLink from 'components/ExternalLink'
 import BookTile from 'components/BookTile'
+import { seriesId } from '../util'
 
 export default function SeriesGroup({ groupedReviews }: { groupedReviews: Extract[] }) {
   const series = groupedReviews[0].book.series
   const author = groupedReviews[0].book.author
   return (
-    <section className='flex flex-column flex-wrap w-full mb-16'>
+    <section id={seriesId(groupedReviews[0].book?.series?.name)} className='flex flex-column flex-wrap w-full mb-16'>
       <header className='mb-8 w-full'>
         <h1>
           <ExternalLink href={series.url} className='text-2xl'>

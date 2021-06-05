@@ -1,0 +1,15 @@
+.period-select {
+  @apply flex justify-end;
+}
+
+.period-select > button {
+  @apply outline-none font-thin;
+}
+
+.period-select > button:not(:last-child) {
+  @apply mr-3
+}
+
+.period-select .selected {
+  @apply font-bold;
+}

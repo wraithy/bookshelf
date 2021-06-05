@@ -5,7 +5,8 @@ const utc = { zone: 'utc' }
 
 export interface DataPoint {
   yearMonth: string
-  [seriesName: string]: number | string
+  date: DateTime
+  [seriesName: string]: number | string | DateTime
 }
 
 export function makeDomain(startDate: DateTime, endDate: DateTime, unit: keyof DurationObjectUnits): DateTime[] {
@@ -89,32 +90,38 @@ function pagesByMonthBySeries(reviews: Extract[]): { [month: string]: { [series:
   }, {})
 }
 
-const fillWithZeroes = <T>(desiredKeys: string[], obj: T): T => ({
-  ...obj,
-  ...desiredKeys.reduce((acc, key) => {
-    if (key in obj) {
-      return acc
+// Make sure each series starts and ends with zero.
+// Be careful - this mutates the input.
+function connectToZero(points: DataPoint[]): DataPoint[] {
+  const ensureSurroundingZeroes = (key: string, pos: number) => {
+    // If the current point is already zero, we don't care about the
+    // surrounding ones.
+    if (points[pos][key] === 0) {return }
+
+    for (let offset of [-1, 1]) {
+      if (!(key in points[pos + offset])) { points[pos+offset][key] = 0 }
     }
-    return { ...acc, [key]: 0 }
-  }, {})
-})
+  }
+
+  for (let i = 1; i < points.length - 1; i++) {
+    Object.keys(points[i]).forEach(key => ensureSurroundingZeroes(key, i))
+  }
+  return points
+}
 
 export function makeDataPoints(reviews: Extract[]): DataPoint[] {
   const byMonthBySeries = pagesByMonthBySeries(reviews)
-  // flatten the grouped heirarchy by one level, into individual items
-  const allSeriesNames = [...new Set(reviews.map((r) => r.book.series?.name))]
-  // fill gaps with no data at all
   const monthsWithData = Object.keys(byMonthBySeries).sort()
+
   const domain = makeDomain(
     DateTime.fromISO(monthsWithData[0]),
-    DateTime.fromISO(monthsWithData[monthsWithData.length-1]),
+    DateTime.fromISO(monthsWithData[monthsWithData.length - 1]),
     'month'
   )
 
-  return domain
-    .map(dt => dt.toISODate())
-    .map(month => fillWithZeroes(allSeriesNames, {
-      yearMonth: month.split('-').slice(0, 2).join('-'),
-      ...byMonthBySeries[month]
-    }))
+  return connectToZero(domain.map(month => ({
+    yearMonth: month.toFormat('yyyy-MM'),
+    date: month,
+    ...byMonthBySeries[month.toISODate()]
+  })))
 }
