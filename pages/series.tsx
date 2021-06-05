@@ -7,12 +7,9 @@ import { reviews } from '../constants'
 // assumption: we are only sorting books which have been finished
 const sortByTimeline = (a: Extract, b: Extract) => (a.timeline.finished < b.timeline.finished ? 1 : -1)
 
-const noSeriesKey = Symbol('noSeriesKey')
-
 function groupBySeries(reviews: Extract[]): Extract[][] {
   const groupings: { [key in symbol | string]: Extract[] } = reviews.reduce((acc, review) => {
-    const series = review.book.series
-    const key = series ? series.url : noSeriesKey
+    const key = review.book.series?.url ?? 'no-series'
     if (!acc.hasOwnProperty(key)) {
       acc[key] = []
     }

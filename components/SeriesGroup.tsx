@@ -7,21 +7,21 @@ export default function SeriesGroup({ groupedReviews }: { groupedReviews: Extrac
   const series = groupedReviews[0].book.series
   const author = groupedReviews[0].book.author
   return (
-    <section id={seriesId(groupedReviews[0].book?.series?.name)} className='flex flex-column flex-wrap w-full mb-16'>
+    <section id={seriesId(series?.name)} className='flex flex-column flex-wrap w-full mb-16'>
       <header className='mb-8 w-full'>
-        <h1>
-          <ExternalLink href={series.url} className='text-2xl'>
-            {series.name}
-          </ExternalLink>
+        <h1 className='text-2xl'>
+          {series ? <ExternalLink href={series.url}>{series.name}</ExternalLink> : 'No series'}
         </h1>
-        <h2 className='mt-2 text-md text-typography-secondary'>
-          <span className='font-thin'>by </span>
-          <ExternalLink href={author.url}>{author.name}</ExternalLink>
-          <span className='font-thin'>
-            <span className='mx-2'>•</span>
-            {groupedReviews.length}/{series.works.primary}
-          </span>
-        </h2>
+        {series ? (
+          <h2 className='mt-2 text-md text-typography-secondary'>
+            <span className='font-thin'>by </span>
+            <ExternalLink href={author.url}>{author.name}</ExternalLink>
+            <span className='font-thin'>
+              <span className='mx-2'>•</span>
+              {groupedReviews.length}/{series.works.primary}
+            </span>
+          </h2>
+        ) : undefined}
       </header>
       <div className='flex flex-wrap w-full'>
         {groupedReviews.map((r) => (

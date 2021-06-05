@@ -78,7 +78,7 @@ function pagesByMonthBySeries(reviews: Extract[]): { [month: string]: { [series:
       if (!(month in groupings)) {
         groupings[month] = {}
       }
-      const seriesName = review.book.series?.name
+      const seriesName = review.book.series?.name ?? 'No series'
       if (!(seriesName in groupings[month])) {
         groupings[month][seriesName] = 0
       }
