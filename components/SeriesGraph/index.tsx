@@ -1,8 +1,9 @@
 import { useState } from 'react'
-import { AreaChart, XAxis, Tooltip, Area, ResponsiveContainer } from 'recharts'
-import { DefaultTooltipContent } from 'recharts/lib/component/DefaultTooltipContent'
+import { AreaChart, XAxis, Tooltip, Area } from 'recharts'
+import ExcludeZeroesTooltip from 'components/recharts/ExcludeZeroesTooltip'
+import ResponsiveContainer from 'components/recharts/ResponsiveContainer'
 import { reviews, accentColors } from '../../constants'
-import { DataPoint, makeDataPoints } from './util'
+import { makeDataPoints, clipToPeriod, scrollToSeries } from './util'
 import { seriesId } from '../../util'
 import styles from './styles.module.css'
 
@@ -12,38 +13,11 @@ const allSeriesNames = [...new Set(reviews.finishedReading.map((r) => r.book.ser
 const colorWheel = accentColors(400)
 const getAreaColor = (i: number) => colorWheel[i % colorWheel.length]
 
-const ExcludeZeroesTooltip = (props: any) => {
-  const newProps = {
-    ...props,
-    payload: props.payload.filter((p: any) => p.value !== 0).map((p: any) => ({ ...p, unit: ' pages' })),
-  }
-  return <DefaultTooltipContent {...newProps} />
-}
-
 const periods = {
   '1Y': 1,
   '5Y': 5,
   '10Y': 10,
   ALL: null,
-}
-
-function clipToPeriod(points: DataPoint[], years: number | null): DataPoint[] {
-  if (years === null) {
-    return points
-  }
-  const cutoff = points[points.length - 1].date.minus({ years })
-  let clipped = points.filter((p) => p.date >= cutoff)
-  // we want the first point to be one that actually has values
-  const hasValues = (p: DataPoint) => Object.keys(p).length > ['date', 'yearMonth'].length
-  while (clipped.length && !hasValues(clipped[0])) {
-    clipped.shift()
-  }
-  return clipped
-}
-
-function scrollToSeries(seriesName: string) {
-  const elem = document.getElementById(seriesId(seriesName))
-  elem.scrollIntoView({ behavior: 'smooth' })
 }
 
 export default function SeriesGraph() {
@@ -90,7 +64,7 @@ export default function SeriesGraph() {
           <button
             key={key}
             onClick={() => setPeriod(value)}
-            className={value === selectedPeriod ? styles.selected : ''}
+            className={'quiet-btn font-thin ' + (value === selectedPeriod ? styles.selected : '')}
           >
             {key}
           </button>

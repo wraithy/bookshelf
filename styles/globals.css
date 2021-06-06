@@ -32,6 +32,11 @@
     @apply bg-base-2 rounded border border-base-3 shadow
   }
 
+  .quiet-btn {
+    @apply focus:outline-none;
+    -webkit-tap-highlight-color: transparent;
+  }
+
   /* https://stackoverflow.com/questions/66416614/how-to-create-scrollable-element-in-tailwind-without-a-scrollbar */
   .no-scrollbar::-webkit-scrollbar {
       display: none; /* Chrome, Safari and Opera */

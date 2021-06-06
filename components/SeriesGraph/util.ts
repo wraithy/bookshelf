@@ -1,5 +1,6 @@
 import { DateTime, DurationObjectUnits } from 'luxon'
 import { Extract } from 'goodreads-export/lib/types'
+import { seriesId } from '../../util'
 
 const utc = { zone: 'utc' }
 
@@ -124,4 +125,24 @@ export function makeDataPoints(reviews: Extract[]): DataPoint[] {
     date: month,
     ...byMonthBySeries[month.toISODate()]
   })))
+}
+
+export function clipToPeriod(points: DataPoint[], years: number | null): DataPoint[] {
+  if (years === null) {
+    return points
+  }
+  const cutoff = points[points.length - 1].date.minus({ years })
+  let clipped = points.filter((p) => p.date >= cutoff)
+  // we want the first point to be one that actually has values
+  const hasValues = (p: DataPoint) => Object.keys(p).length > ['date', 'yearMonth'].length
+  while (clipped.length && !hasValues(clipped[0])) {
+    clipped.shift()
+  }
+  return clipped
+}
+
+
+export function scrollToSeries(seriesName: string) {
+  const elem = document.getElementById(seriesId(seriesName))
+  elem.scrollIntoView({ behavior: 'smooth' })
 }

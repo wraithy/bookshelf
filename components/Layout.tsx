@@ -1,5 +1,5 @@
 import { useState } from 'react'
-import { faChevronRight, faChevronLeft } from '@fortawesome/free-solid-svg-icons'
+import { faChevronLeft } from '@fortawesome/free-solid-svg-icons'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import Nav from 'components/Nav'
 import { useWindowSize } from '../util'
@@ -12,8 +12,12 @@ export default function Layout({ children, contentClass = '' }: { children: any;
     <div className='w-full h-full flex'>
       <Nav className={'w-56 ' + (navOpen || !isMobile ? '' : '-ml-56')} />
       {isMobile && (
-        <button className={'h-32 focus:outline-none flex items-center text-4xl pl-12'}>
-          <FontAwesomeIcon icon={navOpen ? faChevronLeft : faChevronRight} onClick={() => setNavOpen(!navOpen)} />
+        <button className={'h-32 quiet-btn flex items-center text-4xl pl-12'}>
+          <FontAwesomeIcon
+            icon={faChevronLeft}
+            onClick={() => setNavOpen(!navOpen)}
+            className={'transform-gpu duration-300 ' + (navOpen ? 'rotate-0' : 'rotate-180')}
+          />
         </button>
       )}
       <section
