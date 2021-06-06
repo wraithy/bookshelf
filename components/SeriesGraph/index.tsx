@@ -52,7 +52,7 @@ export default function SeriesGraph() {
 
   return (
     <article className='h-48 mb-16 w-full'>
-      <ResponsiveContainer>
+      <ResponsiveContainer debounce={200}>
         <AreaChart data={points} margin={{ top: 0, right: 0, bottom: 0, left: 0 }}>
           <defs>
             {allSeriesNames.map((seriesName, i) => (
