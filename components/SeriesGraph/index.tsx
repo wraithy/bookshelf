@@ -51,7 +51,7 @@ export default function SeriesGraph() {
   const points = clipToPeriod(allDataPoints, selectedPeriod)
 
   return (
-    <article className='h-48 mb-16'>
+    <article className='h-48 mb-16 w-full'>
       <ResponsiveContainer>
         <AreaChart data={points} margin={{ top: 0, right: 0, bottom: 0, left: 0 }}>
           <defs>
